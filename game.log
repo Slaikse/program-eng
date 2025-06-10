@@ -1,0 +1,2184 @@
+2025-06-08 17:17:46,497 - INFO - Initializing GamePage for level 1
+2025-06-08 17:17:46,497 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:17:46,497 - INFO - Loading tile images
+2025-06-08 17:17:46,508 - DEBUG - Loaded tile image: red
+2025-06-08 17:17:46,520 - DEBUG - Loaded tile image: blue
+2025-06-08 17:17:46,532 - DEBUG - Loaded tile image: green
+2025-06-08 17:17:46,543 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:17:46,553 - DEBUG - Loaded tile image: purple
+2025-06-08 17:17:46,564 - DEBUG - Loaded tile image: orange
+2025-06-08 17:17:46,575 - DEBUG - Loaded tile image: pink
+2025-06-08 17:17:46,585 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:17:46,601 - INFO - GamePage initialization complete
+2025-06-08 17:17:48,744 - INFO - Initializing GamePage for level 2
+2025-06-08 17:17:48,744 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:17:48,745 - INFO - Loading tile images
+2025-06-08 17:17:48,756 - DEBUG - Loaded tile image: red
+2025-06-08 17:17:48,766 - DEBUG - Loaded tile image: blue
+2025-06-08 17:17:48,779 - DEBUG - Loaded tile image: green
+2025-06-08 17:17:48,790 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:17:48,800 - DEBUG - Loaded tile image: purple
+2025-06-08 17:17:48,810 - DEBUG - Loaded tile image: orange
+2025-06-08 17:17:48,821 - DEBUG - Loaded tile image: pink
+2025-06-08 17:17:48,832 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:17:48,848 - INFO - GamePage initialization complete
+2025-06-08 17:17:49,761 - INFO - Initializing GamePage for level 2
+2025-06-08 17:17:49,762 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:17:49,762 - INFO - Loading tile images
+2025-06-08 17:17:49,773 - DEBUG - Loaded tile image: red
+2025-06-08 17:17:49,784 - DEBUG - Loaded tile image: blue
+2025-06-08 17:17:49,796 - DEBUG - Loaded tile image: green
+2025-06-08 17:17:49,807 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:17:49,818 - DEBUG - Loaded tile image: purple
+2025-06-08 17:17:49,829 - DEBUG - Loaded tile image: orange
+2025-06-08 17:17:49,839 - DEBUG - Loaded tile image: pink
+2025-06-08 17:17:49,851 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:17:49,867 - INFO - GamePage initialization complete
+2025-06-08 17:17:50,435 - DEBUG - Tile at position (2, 1): red
+2025-06-08 17:17:50,435 - INFO - Clicked tile at (2, 1): red
+2025-06-08 17:17:50,435 - INFO - Selected tile at (2, 1)
+2025-06-08 17:17:51,249 - INFO - Initializing GamePage for level 2
+2025-06-08 17:17:51,250 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:17:51,250 - INFO - Loading tile images
+2025-06-08 17:17:51,261 - DEBUG - Loaded tile image: red
+2025-06-08 17:17:51,271 - DEBUG - Loaded tile image: blue
+2025-06-08 17:17:51,284 - DEBUG - Loaded tile image: green
+2025-06-08 17:17:51,295 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:17:51,305 - DEBUG - Loaded tile image: purple
+2025-06-08 17:17:51,315 - DEBUG - Loaded tile image: orange
+2025-06-08 17:17:51,325 - DEBUG - Loaded tile image: pink
+2025-06-08 17:17:51,337 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:17:51,353 - INFO - GamePage initialization complete
+2025-06-08 17:17:51,688 - INFO - Initializing GamePage for level 2
+2025-06-08 17:17:51,689 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:17:51,689 - INFO - Loading tile images
+2025-06-08 17:17:51,699 - DEBUG - Loaded tile image: red
+2025-06-08 17:17:51,710 - DEBUG - Loaded tile image: blue
+2025-06-08 17:17:51,722 - DEBUG - Loaded tile image: green
+2025-06-08 17:17:51,733 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:17:51,743 - DEBUG - Loaded tile image: purple
+2025-06-08 17:17:51,753 - DEBUG - Loaded tile image: orange
+2025-06-08 17:17:51,764 - DEBUG - Loaded tile image: pink
+2025-06-08 17:17:51,774 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:17:51,790 - INFO - GamePage initialization complete
+2025-06-08 17:17:52,190 - INFO - Initializing GamePage for level 5
+2025-06-08 17:17:52,191 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:17:52,191 - INFO - Loading tile images
+2025-06-08 17:17:52,201 - DEBUG - Loaded tile image: red
+2025-06-08 17:17:52,212 - DEBUG - Loaded tile image: blue
+2025-06-08 17:17:52,224 - DEBUG - Loaded tile image: green
+2025-06-08 17:17:52,235 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:17:52,245 - DEBUG - Loaded tile image: purple
+2025-06-08 17:17:52,255 - DEBUG - Loaded tile image: orange
+2025-06-08 17:17:52,268 - DEBUG - Loaded tile image: pink
+2025-06-08 17:17:52,277 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:17:52,294 - INFO - GamePage initialization complete
+2025-06-08 17:17:52,810 - INFO - Initializing GamePage for level 2
+2025-06-08 17:17:52,810 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:17:52,810 - INFO - Loading tile images
+2025-06-08 17:17:52,821 - DEBUG - Loaded tile image: red
+2025-06-08 17:17:52,831 - DEBUG - Loaded tile image: blue
+2025-06-08 17:17:52,843 - DEBUG - Loaded tile image: green
+2025-06-08 17:17:52,853 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:17:52,862 - DEBUG - Loaded tile image: purple
+2025-06-08 17:17:52,873 - DEBUG - Loaded tile image: orange
+2025-06-08 17:17:52,885 - DEBUG - Loaded tile image: pink
+2025-06-08 17:17:52,896 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:17:52,912 - INFO - GamePage initialization complete
+2025-06-08 17:17:53,032 - DEBUG - Tile at position (2, 3): red
+2025-06-08 17:17:53,032 - INFO - Clicked tile at (2, 3): red
+2025-06-08 17:17:53,033 - INFO - Selected tile at (2, 3)
+2025-06-08 17:17:53,232 - DEBUG - Tile at position (2, 4): red
+2025-06-08 17:17:53,232 - INFO - Clicked tile at (2, 4): red
+2025-06-08 17:17:53,232 - INFO - Swapping tiles: (2, 3) <-> (2, 4)
+2025-06-08 17:17:53,233 - INFO - Swapping tiles: red <-> red
+2025-06-08 17:17:53,233 - DEBUG - Found horizontal match at (0, 0)
+2025-06-08 17:17:53,233 - DEBUG - Found horizontal match at (0, 1)
+2025-06-08 17:17:53,233 - DEBUG - Found horizontal match at (0, 2)
+2025-06-08 17:17:53,233 - DEBUG - Found horizontal match at (1, 1)
+2025-06-08 17:17:53,233 - DEBUG - Found horizontal match at (2, 0)
+2025-06-08 17:17:53,233 - DEBUG - Found horizontal match at (2, 1)
+2025-06-08 17:17:53,233 - DEBUG - Found horizontal match at (2, 2)
+2025-06-08 17:17:53,233 - DEBUG - Found horizontal match at (3, 1)
+2025-06-08 17:17:53,234 - DEBUG - Found horizontal match at (4, 0)
+2025-06-08 17:17:53,234 - DEBUG - Found horizontal match at (4, 1)
+2025-06-08 17:17:53,234 - DEBUG - Found horizontal match at (4, 2)
+2025-06-08 17:17:53,234 - DEBUG - Found vertical match at (0, 1)
+2025-06-08 17:17:53,234 - DEBUG - Found vertical match at (0, 2)
+2025-06-08 17:17:53,234 - DEBUG - Found vertical match at (0, 3)
+2025-06-08 17:17:53,236 - DEBUG - Found vertical match at (1, 1)
+2025-06-08 17:17:53,236 - DEBUG - Found vertical match at (1, 2)
+2025-06-08 17:17:53,236 - DEBUG - Found vertical match at (1, 3)
+2025-06-08 17:17:53,236 - DEBUG - Found vertical match at (2, 1)
+2025-06-08 17:17:53,236 - DEBUG - Found vertical match at (2, 2)
+2025-06-08 17:17:53,236 - DEBUG - Found vertical match at (2, 3)
+2025-06-08 17:17:53,237 - INFO - Found 20 matches
+2025-06-08 17:17:53,237 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,237 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,237 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,237 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,237 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,238 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,238 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,238 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,238 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,238 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,238 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,238 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,238 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,238 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,239 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,239 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,239 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,239 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,239 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,239 - INFO - Objective completed for tile type: red
+2025-06-08 17:17:53,430 - DEBUG - No tile at position (565, 318)
+2025-06-08 17:17:53,430 - INFO - Clicked outside grid
+2025-06-08 17:17:55,355 - DEBUG - No tile at position (769, 3)
+2025-06-08 17:17:55,355 - INFO - Clicked outside grid
+2025-06-08 17:18:39,325 - INFO - Initializing GamePage for level 1
+2025-06-08 17:18:39,326 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:18:39,326 - INFO - Loading tile images
+2025-06-08 17:18:39,337 - DEBUG - Loaded tile image: red
+2025-06-08 17:18:39,348 - DEBUG - Loaded tile image: blue
+2025-06-08 17:18:39,358 - DEBUG - Loaded tile image: green
+2025-06-08 17:18:39,370 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:18:39,379 - DEBUG - Loaded tile image: purple
+2025-06-08 17:18:39,390 - DEBUG - Loaded tile image: orange
+2025-06-08 17:18:39,400 - DEBUG - Loaded tile image: pink
+2025-06-08 17:18:39,411 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:18:39,427 - INFO - GamePage initialization complete
+2025-06-08 17:18:41,328 - DEBUG - Tile at position (4, 3): yellow
+2025-06-08 17:18:41,328 - INFO - Clicked tile at (4, 3): yellow
+2025-06-08 17:18:41,328 - INFO - Selected tile at (4, 3)
+2025-06-08 17:18:41,790 - DEBUG - Tile at position (4, 2): red
+2025-06-08 17:18:41,790 - INFO - Clicked tile at (4, 2): red
+2025-06-08 17:18:41,790 - INFO - Swapping tiles: (4, 3) <-> (4, 2)
+2025-06-08 17:18:41,791 - INFO - Swapping tiles: yellow <-> red
+2025-06-08 17:18:41,791 - DEBUG - Found horizontal match at (5, 1)
+2025-06-08 17:18:41,791 - DEBUG - Found horizontal match at (5, 6)
+2025-06-08 17:18:41,791 - DEBUG - Found horizontal match at (6, 1)
+2025-06-08 17:18:41,791 - DEBUG - Found horizontal match at (9, 1)
+2025-06-08 17:18:41,792 - DEBUG - Found vertical match at (0, 1)
+2025-06-08 17:18:41,792 - DEBUG - Found vertical match at (4, 2)
+2025-06-08 17:18:41,792 - DEBUG - Found vertical match at (6, 7)
+2025-06-08 17:18:41,792 - DEBUG - Found vertical match at (7, 7)
+2025-06-08 17:18:41,792 - INFO - Found 8 matches
+2025-06-08 17:18:41,793 - INFO - Objective completed for tile type: red
+2025-06-08 17:18:42,668 - DEBUG - Tile at position (4, 3): red
+2025-06-08 17:18:42,668 - INFO - Clicked tile at (4, 3): red
+2025-06-08 17:18:42,668 - INFO - Selected tile at (4, 3)
+2025-06-08 17:18:42,883 - INFO - Initializing GamePage for level 1
+2025-06-08 17:18:42,883 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:18:42,884 - INFO - Loading tile images
+2025-06-08 17:18:42,894 - DEBUG - Loaded tile image: red
+2025-06-08 17:18:42,906 - DEBUG - Loaded tile image: blue
+2025-06-08 17:18:42,918 - DEBUG - Loaded tile image: green
+2025-06-08 17:18:42,928 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:18:42,939 - DEBUG - Loaded tile image: purple
+2025-06-08 17:18:42,951 - DEBUG - Loaded tile image: orange
+2025-06-08 17:18:42,962 - DEBUG - Loaded tile image: pink
+2025-06-08 17:18:42,973 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:18:42,990 - INFO - GamePage initialization complete
+2025-06-08 17:18:43,728 - INFO - Initializing GamePage for level 1
+2025-06-08 17:18:43,728 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:18:43,728 - INFO - Loading tile images
+2025-06-08 17:18:43,739 - DEBUG - Loaded tile image: red
+2025-06-08 17:18:43,752 - DEBUG - Loaded tile image: blue
+2025-06-08 17:18:43,765 - DEBUG - Loaded tile image: green
+2025-06-08 17:18:43,778 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:18:43,787 - DEBUG - Loaded tile image: purple
+2025-06-08 17:18:43,797 - DEBUG - Loaded tile image: orange
+2025-06-08 17:18:43,809 - DEBUG - Loaded tile image: pink
+2025-06-08 17:18:43,820 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:18:43,836 - INFO - GamePage initialization complete
+2025-06-08 17:18:44,091 - DEBUG - Tile at position (4, 3): blue
+2025-06-08 17:18:44,091 - INFO - Clicked tile at (4, 3): blue
+2025-06-08 17:18:44,091 - INFO - Selected tile at (4, 3)
+2025-06-08 17:18:44,489 - INFO - Initializing GamePage for level 1
+2025-06-08 17:18:44,490 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:18:44,490 - INFO - Loading tile images
+2025-06-08 17:18:44,500 - DEBUG - Loaded tile image: red
+2025-06-08 17:18:44,511 - DEBUG - Loaded tile image: blue
+2025-06-08 17:18:44,523 - DEBUG - Loaded tile image: green
+2025-06-08 17:18:44,534 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:18:44,544 - DEBUG - Loaded tile image: purple
+2025-06-08 17:18:44,554 - DEBUG - Loaded tile image: orange
+2025-06-08 17:18:44,564 - DEBUG - Loaded tile image: pink
+2025-06-08 17:18:44,576 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:18:44,592 - INFO - GamePage initialization complete
+2025-06-08 17:18:44,764 - INFO - Initializing GamePage for level 1
+2025-06-08 17:18:44,764 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:18:44,765 - INFO - Loading tile images
+2025-06-08 17:18:44,776 - DEBUG - Loaded tile image: red
+2025-06-08 17:18:44,786 - DEBUG - Loaded tile image: blue
+2025-06-08 17:18:44,798 - DEBUG - Loaded tile image: green
+2025-06-08 17:18:44,811 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:18:44,820 - DEBUG - Loaded tile image: purple
+2025-06-08 17:18:44,831 - DEBUG - Loaded tile image: orange
+2025-06-08 17:18:44,842 - DEBUG - Loaded tile image: pink
+2025-06-08 17:18:44,852 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:18:44,867 - INFO - GamePage initialization complete
+2025-06-08 17:18:44,958 - INFO - Initializing GamePage for level 1
+2025-06-08 17:18:44,958 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:18:44,959 - INFO - Loading tile images
+2025-06-08 17:18:44,968 - DEBUG - Loaded tile image: red
+2025-06-08 17:18:44,981 - DEBUG - Loaded tile image: blue
+2025-06-08 17:18:44,993 - DEBUG - Loaded tile image: green
+2025-06-08 17:18:45,004 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:18:45,014 - DEBUG - Loaded tile image: purple
+2025-06-08 17:18:45,024 - DEBUG - Loaded tile image: orange
+2025-06-08 17:18:45,035 - DEBUG - Loaded tile image: pink
+2025-06-08 17:18:45,047 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:18:45,062 - INFO - GamePage initialization complete
+2025-06-08 17:18:45,316 - INFO - Initializing GamePage for level 1
+2025-06-08 17:18:45,317 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:18:45,317 - INFO - Loading tile images
+2025-06-08 17:18:45,329 - DEBUG - Loaded tile image: red
+2025-06-08 17:18:45,341 - DEBUG - Loaded tile image: blue
+2025-06-08 17:18:45,352 - DEBUG - Loaded tile image: green
+2025-06-08 17:18:45,364 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:18:45,375 - DEBUG - Loaded tile image: purple
+2025-06-08 17:18:45,384 - DEBUG - Loaded tile image: orange
+2025-06-08 17:18:45,397 - DEBUG - Loaded tile image: pink
+2025-06-08 17:18:45,407 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:18:45,423 - INFO - GamePage initialization complete
+2025-06-08 17:22:09,499 - INFO - Initializing GamePage for level 1
+2025-06-08 17:22:09,500 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:22:09,500 - INFO - Loading tile images
+2025-06-08 17:22:09,511 - DEBUG - Loaded tile image: red
+2025-06-08 17:22:09,522 - DEBUG - Loaded tile image: blue
+2025-06-08 17:22:09,534 - DEBUG - Loaded tile image: green
+2025-06-08 17:22:09,544 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:22:09,554 - DEBUG - Loaded tile image: purple
+2025-06-08 17:22:09,565 - DEBUG - Loaded tile image: orange
+2025-06-08 17:22:09,575 - DEBUG - Loaded tile image: pink
+2025-06-08 17:22:09,588 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:22:09,604 - INFO - GamePage initialization complete
+2025-06-08 17:22:09,604 - DEBUG - Tile at position (2, 2): green
+2025-06-08 17:22:09,604 - INFO - Clicked tile at (2, 2): green
+2025-06-08 17:22:09,604 - INFO - Selected tile at (2, 2)
+2025-06-08 17:22:10,811 - DEBUG - Tile at position (3, 3): blue
+2025-06-08 17:22:10,811 - INFO - Clicked tile at (3, 3): blue
+2025-06-08 17:22:10,811 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:22:11,425 - DEBUG - Tile at position (3, 2): purple
+2025-06-08 17:22:11,425 - INFO - Clicked tile at (3, 2): purple
+2025-06-08 17:22:11,426 - INFO - Selected tile at (3, 2)
+2025-06-08 17:22:11,575 - DEBUG - Tile at position (3, 2): purple
+2025-06-08 17:22:11,575 - INFO - Clicked tile at (3, 2): purple
+2025-06-08 17:22:11,575 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:22:34,238 - INFO - Initializing GamePage for level 1
+2025-06-08 17:22:34,239 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:22:34,240 - INFO - Loading tile images
+2025-06-08 17:22:34,250 - DEBUG - Loaded tile image: red
+2025-06-08 17:22:34,260 - DEBUG - Loaded tile image: blue
+2025-06-08 17:22:34,272 - DEBUG - Loaded tile image: green
+2025-06-08 17:22:34,282 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:22:34,292 - DEBUG - Loaded tile image: purple
+2025-06-08 17:22:34,302 - DEBUG - Loaded tile image: orange
+2025-06-08 17:22:34,312 - DEBUG - Loaded tile image: pink
+2025-06-08 17:22:34,323 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:22:34,338 - INFO - GamePage initialization complete
+2025-06-08 17:22:35,563 - INFO - Initializing GamePage for level 2
+2025-06-08 17:22:35,564 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:22:35,564 - INFO - Loading tile images
+2025-06-08 17:22:35,574 - DEBUG - Loaded tile image: red
+2025-06-08 17:22:35,585 - DEBUG - Loaded tile image: blue
+2025-06-08 17:22:35,596 - DEBUG - Loaded tile image: green
+2025-06-08 17:22:35,606 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:22:35,616 - DEBUG - Loaded tile image: purple
+2025-06-08 17:22:35,626 - DEBUG - Loaded tile image: orange
+2025-06-08 17:22:35,637 - DEBUG - Loaded tile image: pink
+2025-06-08 17:22:35,648 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:22:35,663 - INFO - GamePage initialization complete
+2025-06-08 17:22:36,472 - INFO - Initializing GamePage for level 2
+2025-06-08 17:22:36,472 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:22:36,473 - INFO - Loading tile images
+2025-06-08 17:22:36,483 - DEBUG - Loaded tile image: red
+2025-06-08 17:22:36,494 - DEBUG - Loaded tile image: blue
+2025-06-08 17:22:36,505 - DEBUG - Loaded tile image: green
+2025-06-08 17:22:36,516 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:22:36,526 - DEBUG - Loaded tile image: purple
+2025-06-08 17:22:36,536 - DEBUG - Loaded tile image: orange
+2025-06-08 17:22:36,547 - DEBUG - Loaded tile image: pink
+2025-06-08 17:22:36,557 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:22:36,573 - INFO - GamePage initialization complete
+2025-06-08 17:22:37,011 - INFO - Initializing GamePage for level 2
+2025-06-08 17:22:37,011 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:22:37,011 - INFO - Loading tile images
+2025-06-08 17:22:37,022 - DEBUG - Loaded tile image: red
+2025-06-08 17:22:37,033 - DEBUG - Loaded tile image: blue
+2025-06-08 17:22:37,045 - DEBUG - Loaded tile image: green
+2025-06-08 17:22:37,056 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:22:37,066 - DEBUG - Loaded tile image: purple
+2025-06-08 17:22:37,076 - DEBUG - Loaded tile image: orange
+2025-06-08 17:22:37,087 - DEBUG - Loaded tile image: pink
+2025-06-08 17:22:37,097 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:22:37,114 - INFO - GamePage initialization complete
+2025-06-08 17:22:37,283 - INFO - Initializing GamePage for level 2
+2025-06-08 17:22:37,283 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:22:37,283 - INFO - Loading tile images
+2025-06-08 17:22:37,293 - DEBUG - Loaded tile image: red
+2025-06-08 17:22:37,305 - DEBUG - Loaded tile image: blue
+2025-06-08 17:22:37,316 - DEBUG - Loaded tile image: green
+2025-06-08 17:22:37,328 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:22:37,337 - DEBUG - Loaded tile image: purple
+2025-06-08 17:22:37,348 - DEBUG - Loaded tile image: orange
+2025-06-08 17:22:37,359 - DEBUG - Loaded tile image: pink
+2025-06-08 17:22:37,370 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:22:37,385 - INFO - GamePage initialization complete
+2025-06-08 17:22:37,788 - DEBUG - Tile at position (3, 2): yellow
+2025-06-08 17:22:37,788 - INFO - Clicked tile at (3, 2): yellow
+2025-06-08 17:22:37,788 - INFO - Selected tile at (3, 2)
+2025-06-08 17:22:38,201 - INFO - Initializing GamePage for level 3
+2025-06-08 17:22:38,201 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:22:38,201 - INFO - Loading tile images
+2025-06-08 17:22:38,212 - DEBUG - Loaded tile image: red
+2025-06-08 17:22:38,222 - DEBUG - Loaded tile image: blue
+2025-06-08 17:22:38,234 - DEBUG - Loaded tile image: green
+2025-06-08 17:22:38,245 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:22:38,254 - DEBUG - Loaded tile image: purple
+2025-06-08 17:22:38,265 - DEBUG - Loaded tile image: orange
+2025-06-08 17:22:38,275 - DEBUG - Loaded tile image: pink
+2025-06-08 17:22:38,287 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:22:38,302 - INFO - GamePage initialization complete
+2025-06-08 17:22:38,789 - DEBUG - Tile at position (6, 4): yellow
+2025-06-08 17:22:38,789 - INFO - Clicked tile at (6, 4): yellow
+2025-06-08 17:22:38,789 - INFO - Selected tile at (6, 4)
+2025-06-08 17:22:39,053 - DEBUG - Tile at position (6, 5): purple
+2025-06-08 17:22:39,053 - INFO - Clicked tile at (6, 5): purple
+2025-06-08 17:22:39,053 - INFO - Swapping tiles: (6, 4) <-> (6, 5)
+2025-06-08 17:22:39,053 - INFO - Swapping tiles: yellow <-> purple
+2025-06-08 17:22:39,054 - DEBUG - Found horizontal match at (4, 5)
+2025-06-08 17:22:39,054 - DEBUG - Found horizontal match at (4, 6)
+2025-06-08 17:22:39,054 - DEBUG - Found horizontal match at (4, 7)
+2025-06-08 17:22:39,054 - DEBUG - Found vertical match at (2, 8)
+2025-06-08 17:22:39,054 - DEBUG - Found vertical match at (3, 3)
+2025-06-08 17:22:39,054 - DEBUG - Found vertical match at (3, 4)
+2025-06-08 17:22:39,054 - DEBUG - Found vertical match at (3, 6)
+2025-06-08 17:22:39,054 - DEBUG - Found vertical match at (3, 8)
+2025-06-08 17:22:39,054 - DEBUG - Found vertical match at (4, 3)
+2025-06-08 17:22:39,055 - DEBUG - Found vertical match at (4, 6)
+2025-06-08 17:22:39,055 - INFO - Found 10 matches
+2025-06-08 17:22:39,055 - INFO - Objective completed for tile type: blue
+2025-06-08 17:22:39,055 - INFO - Objective completed for tile type: blue
+2025-06-08 17:22:39,055 - INFO - Objective completed for tile type: blue
+2025-06-08 17:22:39,055 - INFO - Objective completed for tile type: blue
+2025-06-08 17:22:39,680 - INFO - Initializing GamePage for level 5
+2025-06-08 17:22:39,681 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:22:39,681 - INFO - Loading tile images
+2025-06-08 17:22:39,690 - DEBUG - Loaded tile image: red
+2025-06-08 17:22:39,702 - DEBUG - Loaded tile image: blue
+2025-06-08 17:22:39,712 - DEBUG - Loaded tile image: green
+2025-06-08 17:22:39,723 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:22:39,733 - DEBUG - Loaded tile image: purple
+2025-06-08 17:22:39,743 - DEBUG - Loaded tile image: orange
+2025-06-08 17:22:39,755 - DEBUG - Loaded tile image: pink
+2025-06-08 17:22:39,766 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:22:39,782 - INFO - GamePage initialization complete
+2025-06-08 17:22:39,934 - INFO - Initializing GamePage for level 5
+2025-06-08 17:22:39,934 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:22:39,934 - INFO - Loading tile images
+2025-06-08 17:22:39,944 - DEBUG - Loaded tile image: red
+2025-06-08 17:22:39,955 - DEBUG - Loaded tile image: blue
+2025-06-08 17:22:39,966 - DEBUG - Loaded tile image: green
+2025-06-08 17:22:39,977 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:22:39,987 - DEBUG - Loaded tile image: purple
+2025-06-08 17:22:39,997 - DEBUG - Loaded tile image: orange
+2025-06-08 17:22:40,008 - DEBUG - Loaded tile image: pink
+2025-06-08 17:22:40,018 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:22:40,034 - INFO - GamePage initialization complete
+2025-06-08 17:22:40,415 - INFO - Initializing GamePage for level 2
+2025-06-08 17:22:40,415 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:22:40,415 - INFO - Loading tile images
+2025-06-08 17:22:40,425 - DEBUG - Loaded tile image: red
+2025-06-08 17:22:40,437 - DEBUG - Loaded tile image: blue
+2025-06-08 17:22:40,448 - DEBUG - Loaded tile image: green
+2025-06-08 17:22:40,460 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:22:40,470 - DEBUG - Loaded tile image: purple
+2025-06-08 17:22:40,480 - DEBUG - Loaded tile image: orange
+2025-06-08 17:22:40,490 - DEBUG - Loaded tile image: pink
+2025-06-08 17:22:40,501 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:22:40,516 - INFO - GamePage initialization complete
+2025-06-08 17:22:40,652 - DEBUG - Tile at position (3, 3): blue
+2025-06-08 17:22:40,653 - INFO - Clicked tile at (3, 3): blue
+2025-06-08 17:22:40,653 - INFO - Selected tile at (3, 3)
+2025-06-08 17:22:41,000 - INFO - Initializing GamePage for level 2
+2025-06-08 17:22:41,000 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:22:41,000 - INFO - Loading tile images
+2025-06-08 17:22:41,010 - DEBUG - Loaded tile image: red
+2025-06-08 17:22:41,022 - DEBUG - Loaded tile image: blue
+2025-06-08 17:22:41,032 - DEBUG - Loaded tile image: green
+2025-06-08 17:22:41,043 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:22:41,053 - DEBUG - Loaded tile image: purple
+2025-06-08 17:22:41,063 - DEBUG - Loaded tile image: orange
+2025-06-08 17:22:41,075 - DEBUG - Loaded tile image: pink
+2025-06-08 17:22:41,084 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:22:41,101 - INFO - GamePage initialization complete
+2025-06-08 17:22:41,154 - DEBUG - Tile at position (2, 2): green
+2025-06-08 17:22:41,155 - INFO - Clicked tile at (2, 2): green
+2025-06-08 17:22:41,155 - INFO - Selected tile at (2, 2)
+2025-06-08 17:22:41,318 - DEBUG - Tile at position (1, 1): red
+2025-06-08 17:22:41,318 - INFO - Clicked tile at (1, 1): red
+2025-06-08 17:22:41,318 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:22:41,465 - DEBUG - No tile at position (191, 231)
+2025-06-08 17:22:41,465 - INFO - Clicked outside grid
+2025-06-08 17:22:41,628 - DEBUG - No tile at position (134, 229)
+2025-06-08 17:22:41,628 - INFO - Clicked outside grid
+2025-06-08 17:22:41,797 - DEBUG - Tile at position (0, 0): green
+2025-06-08 17:22:41,798 - INFO - Clicked tile at (0, 0): green
+2025-06-08 17:22:41,798 - INFO - Selected tile at (0, 0)
+2025-06-08 17:22:41,962 - DEBUG - Tile at position (0, 1): purple
+2025-06-08 17:22:41,962 - INFO - Clicked tile at (0, 1): purple
+2025-06-08 17:22:41,963 - INFO - Swapping tiles: (0, 0) <-> (0, 1)
+2025-06-08 17:22:41,963 - INFO - Swapping tiles: green <-> purple
+2025-06-08 17:22:41,963 - INFO - No matches found, swapping back
+2025-06-08 17:22:42,641 - DEBUG - Tile at position (1, 1): red
+2025-06-08 17:22:42,641 - INFO - Clicked tile at (1, 1): red
+2025-06-08 17:22:42,641 - INFO - Selected tile at (1, 1)
+2025-06-08 17:22:42,888 - DEBUG - Tile at position (0, 1): purple
+2025-06-08 17:22:42,888 - INFO - Clicked tile at (0, 1): purple
+2025-06-08 17:22:42,888 - INFO - Swapping tiles: (1, 1) <-> (0, 1)
+2025-06-08 17:22:42,888 - INFO - Swapping tiles: red <-> purple
+2025-06-08 17:22:42,888 - INFO - No matches found, swapping back
+2025-06-08 17:22:43,782 - DEBUG - Tile at position (0, 2): red
+2025-06-08 17:22:43,782 - INFO - Clicked tile at (0, 2): red
+2025-06-08 17:22:43,782 - INFO - Selected tile at (0, 2)
+2025-06-08 17:22:43,982 - DEBUG - Tile at position (0, 3): blue
+2025-06-08 17:22:43,982 - INFO - Clicked tile at (0, 3): blue
+2025-06-08 17:22:43,982 - INFO - Swapping tiles: (0, 2) <-> (0, 3)
+2025-06-08 17:22:43,983 - INFO - Swapping tiles: red <-> blue
+2025-06-08 17:22:43,983 - INFO - No matches found, swapping back
+2025-06-08 17:22:44,717 - DEBUG - Tile at position (0, 2): red
+2025-06-08 17:22:44,718 - INFO - Clicked tile at (0, 2): red
+2025-06-08 17:22:44,718 - INFO - Selected tile at (0, 2)
+2025-06-08 17:22:45,011 - DEBUG - Tile at position (1, 3): purple
+2025-06-08 17:22:45,011 - INFO - Clicked tile at (1, 3): purple
+2025-06-08 17:22:45,011 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:22:45,396 - DEBUG - Tile at position (1, 1): red
+2025-06-08 17:22:45,397 - INFO - Clicked tile at (1, 1): red
+2025-06-08 17:22:45,397 - INFO - Selected tile at (1, 1)
+2025-06-08 17:22:45,791 - DEBUG - Tile at position (1, 2): yellow
+2025-06-08 17:22:45,792 - INFO - Clicked tile at (1, 2): yellow
+2025-06-08 17:22:45,792 - INFO - Swapping tiles: (1, 1) <-> (1, 2)
+2025-06-08 17:22:45,792 - INFO - Swapping tiles: red <-> yellow
+2025-06-08 17:22:45,792 - DEBUG - Found vertical match at (1, 1)
+2025-06-08 17:22:45,792 - INFO - Found 1 matches
+2025-06-08 17:22:46,548 - DEBUG - Tile at position (1, 1): yellow
+2025-06-08 17:22:46,548 - INFO - Clicked tile at (1, 1): yellow
+2025-06-08 17:22:46,548 - INFO - Selected tile at (1, 1)
+2025-06-08 17:22:46,978 - DEBUG - Tile at position (2, 2): green
+2025-06-08 17:22:46,978 - INFO - Clicked tile at (2, 2): green
+2025-06-08 17:22:46,978 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:22:47,379 - DEBUG - Tile at position (1, 1): yellow
+2025-06-08 17:22:47,379 - INFO - Clicked tile at (1, 1): yellow
+2025-06-08 17:22:47,379 - INFO - Selected tile at (1, 1)
+2025-06-08 17:22:47,612 - DEBUG - Tile at position (1, 2): red
+2025-06-08 17:22:47,612 - INFO - Clicked tile at (1, 2): red
+2025-06-08 17:22:47,613 - INFO - Swapping tiles: (1, 1) <-> (1, 2)
+2025-06-08 17:22:47,613 - INFO - Swapping tiles: yellow <-> red
+2025-06-08 17:22:47,613 - INFO - No matches found, swapping back
+2025-06-08 17:22:48,370 - DEBUG - Tile at position (1, 1): yellow
+2025-06-08 17:22:48,370 - INFO - Clicked tile at (1, 1): yellow
+2025-06-08 17:22:48,370 - INFO - Selected tile at (1, 1)
+2025-06-08 17:22:48,617 - DEBUG - Tile at position (2, 1): yellow
+2025-06-08 17:22:48,617 - INFO - Clicked tile at (2, 1): yellow
+2025-06-08 17:22:48,617 - INFO - Swapping tiles: (1, 1) <-> (2, 1)
+2025-06-08 17:22:48,617 - INFO - Swapping tiles: yellow <-> yellow
+2025-06-08 17:22:48,619 - DEBUG - Found vertical match at (1, 1)
+2025-06-08 17:22:48,619 - INFO - Found 1 matches
+2025-06-08 17:22:49,305 - DEBUG - Tile at position (2, 1): yellow
+2025-06-08 17:22:49,305 - INFO - Clicked tile at (2, 1): yellow
+2025-06-08 17:22:49,306 - INFO - Selected tile at (2, 1)
+2025-06-08 17:22:49,570 - DEBUG - Tile at position (3, 1): yellow
+2025-06-08 17:22:49,570 - INFO - Clicked tile at (3, 1): yellow
+2025-06-08 17:22:49,570 - INFO - Swapping tiles: (2, 1) <-> (3, 1)
+2025-06-08 17:22:49,570 - INFO - Swapping tiles: yellow <-> yellow
+2025-06-08 17:22:49,571 - DEBUG - Found vertical match at (1, 1)
+2025-06-08 17:22:49,571 - INFO - Found 1 matches
+2025-06-08 17:22:50,131 - DEBUG - Tile at position (3, 1): yellow
+2025-06-08 17:22:50,131 - INFO - Clicked tile at (3, 1): yellow
+2025-06-08 17:22:50,131 - INFO - Selected tile at (3, 1)
+2025-06-08 17:22:50,344 - DEBUG - Tile at position (2, 1): yellow
+2025-06-08 17:22:50,344 - INFO - Clicked tile at (2, 1): yellow
+2025-06-08 17:22:50,344 - INFO - Swapping tiles: (3, 1) <-> (2, 1)
+2025-06-08 17:22:50,344 - INFO - Swapping tiles: yellow <-> yellow
+2025-06-08 17:22:50,344 - DEBUG - Found vertical match at (1, 1)
+2025-06-08 17:22:50,345 - INFO - Found 1 matches
+2025-06-08 17:22:50,720 - DEBUG - Tile at position (2, 1): yellow
+2025-06-08 17:22:50,720 - INFO - Clicked tile at (2, 1): yellow
+2025-06-08 17:22:50,720 - INFO - Selected tile at (2, 1)
+2025-06-08 17:22:50,986 - DEBUG - Tile at position (2, 2): green
+2025-06-08 17:22:50,987 - INFO - Clicked tile at (2, 2): green
+2025-06-08 17:22:50,987 - INFO - Swapping tiles: (2, 1) <-> (2, 2)
+2025-06-08 17:22:50,987 - INFO - Swapping tiles: yellow <-> green
+2025-06-08 17:22:50,987 - INFO - No matches found, swapping back
+2025-06-08 17:22:51,400 - DEBUG - Tile at position (2, 2): green
+2025-06-08 17:22:51,400 - INFO - Clicked tile at (2, 2): green
+2025-06-08 17:22:51,400 - INFO - Selected tile at (2, 2)
+2025-06-08 17:22:51,601 - DEBUG - Tile at position (2, 3): green
+2025-06-08 17:22:51,601 - INFO - Clicked tile at (2, 3): green
+2025-06-08 17:22:51,601 - INFO - Swapping tiles: (2, 2) <-> (2, 3)
+2025-06-08 17:22:51,601 - INFO - Swapping tiles: green <-> green
+2025-06-08 17:22:51,603 - DEBUG - Found vertical match at (1, 1)
+2025-06-08 17:22:51,603 - INFO - Found 1 matches
+2025-06-08 17:22:51,943 - INFO - Initializing GamePage for level 3
+2025-06-08 17:22:51,944 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:22:51,944 - INFO - Loading tile images
+2025-06-08 17:22:51,954 - DEBUG - Loaded tile image: red
+2025-06-08 17:22:51,966 - DEBUG - Loaded tile image: blue
+2025-06-08 17:22:51,976 - DEBUG - Loaded tile image: green
+2025-06-08 17:22:51,987 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:22:51,997 - DEBUG - Loaded tile image: purple
+2025-06-08 17:22:52,007 - DEBUG - Loaded tile image: orange
+2025-06-08 17:22:52,018 - DEBUG - Loaded tile image: pink
+2025-06-08 17:22:52,030 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:22:52,045 - INFO - GamePage initialization complete
+2025-06-08 17:22:52,446 - INFO - Initializing GamePage for level 3
+2025-06-08 17:22:52,446 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:22:52,447 - INFO - Loading tile images
+2025-06-08 17:22:52,457 - DEBUG - Loaded tile image: red
+2025-06-08 17:22:52,468 - DEBUG - Loaded tile image: blue
+2025-06-08 17:22:52,480 - DEBUG - Loaded tile image: green
+2025-06-08 17:22:52,491 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:22:52,500 - DEBUG - Loaded tile image: purple
+2025-06-08 17:22:52,510 - DEBUG - Loaded tile image: orange
+2025-06-08 17:22:52,521 - DEBUG - Loaded tile image: pink
+2025-06-08 17:22:52,531 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:22:52,546 - INFO - GamePage initialization complete
+2025-06-08 17:22:52,850 - INFO - Initializing GamePage for level 3
+2025-06-08 17:22:52,851 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:22:52,851 - INFO - Loading tile images
+2025-06-08 17:22:52,861 - DEBUG - Loaded tile image: red
+2025-06-08 17:22:52,872 - DEBUG - Loaded tile image: blue
+2025-06-08 17:22:52,884 - DEBUG - Loaded tile image: green
+2025-06-08 17:22:52,894 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:22:52,903 - DEBUG - Loaded tile image: purple
+2025-06-08 17:22:52,913 - DEBUG - Loaded tile image: orange
+2025-06-08 17:22:52,925 - DEBUG - Loaded tile image: pink
+2025-06-08 17:22:52,934 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:22:52,950 - INFO - GamePage initialization complete
+2025-06-08 17:22:53,202 - INFO - Initializing GamePage for level 3
+2025-06-08 17:22:53,202 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:22:53,202 - INFO - Loading tile images
+2025-06-08 17:22:53,213 - DEBUG - Loaded tile image: red
+2025-06-08 17:22:53,223 - DEBUG - Loaded tile image: blue
+2025-06-08 17:22:53,235 - DEBUG - Loaded tile image: green
+2025-06-08 17:22:53,246 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:22:53,256 - DEBUG - Loaded tile image: purple
+2025-06-08 17:22:53,266 - DEBUG - Loaded tile image: orange
+2025-06-08 17:22:53,276 - DEBUG - Loaded tile image: pink
+2025-06-08 17:22:53,287 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:22:53,302 - INFO - GamePage initialization complete
+2025-06-08 17:22:53,603 - DEBUG - Tile at position (4, 6): blue
+2025-06-08 17:22:53,603 - INFO - Clicked tile at (4, 6): blue
+2025-06-08 17:22:53,603 - INFO - Selected tile at (4, 6)
+2025-06-08 17:22:54,050 - DEBUG - Tile at position (4, 6): blue
+2025-06-08 17:22:54,050 - INFO - Clicked tile at (4, 6): blue
+2025-06-08 17:22:54,050 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:22:54,345 - INFO - Initializing GamePage for level 3
+2025-06-08 17:22:54,345 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:22:54,345 - INFO - Loading tile images
+2025-06-08 17:22:54,356 - DEBUG - Loaded tile image: red
+2025-06-08 17:22:54,367 - DEBUG - Loaded tile image: blue
+2025-06-08 17:22:54,379 - DEBUG - Loaded tile image: green
+2025-06-08 17:22:54,390 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:22:54,399 - DEBUG - Loaded tile image: purple
+2025-06-08 17:22:54,410 - DEBUG - Loaded tile image: orange
+2025-06-08 17:22:54,421 - DEBUG - Loaded tile image: pink
+2025-06-08 17:22:54,432 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:22:54,447 - INFO - GamePage initialization complete
+2025-06-08 17:22:54,686 - DEBUG - Tile at position (4, 6): blue
+2025-06-08 17:22:54,686 - INFO - Clicked tile at (4, 6): blue
+2025-06-08 17:22:54,686 - INFO - Selected tile at (4, 6)
+2025-06-08 17:22:54,981 - DEBUG - Tile at position (4, 7): blue
+2025-06-08 17:22:54,981 - INFO - Clicked tile at (4, 7): blue
+2025-06-08 17:22:54,981 - INFO - Swapping tiles: (4, 6) <-> (4, 7)
+2025-06-08 17:22:54,981 - INFO - Swapping tiles: blue <-> blue
+2025-06-08 17:22:54,981 - DEBUG - Found horizontal match at (2, 4)
+2025-06-08 17:22:54,981 - DEBUG - Found horizontal match at (2, 5)
+2025-06-08 17:22:54,982 - DEBUG - Found horizontal match at (2, 6)
+2025-06-08 17:22:54,982 - DEBUG - Found horizontal match at (4, 2)
+2025-06-08 17:22:54,982 - DEBUG - Found horizontal match at (5, 1)
+2025-06-08 17:22:54,982 - DEBUG - Found vertical match at (2, 1)
+2025-06-08 17:22:54,982 - DEBUG - Found vertical match at (3, 3)
+2025-06-08 17:22:54,982 - DEBUG - Found vertical match at (3, 6)
+2025-06-08 17:22:54,982 - DEBUG - Found vertical match at (4, 3)
+2025-06-08 17:22:54,982 - DEBUG - Found vertical match at (4, 6)
+2025-06-08 17:22:54,982 - INFO - Found 10 matches
+2025-06-08 17:22:54,983 - INFO - Objective completed for tile type: blue
+2025-06-08 17:22:54,983 - INFO - Objective completed for tile type: blue
+2025-06-08 17:22:54,983 - INFO - Objective completed for tile type: blue
+2025-06-08 17:22:54,983 - INFO - Objective completed for tile type: blue
+2025-06-08 17:22:55,510 - DEBUG - Tile at position (4, 6): blue
+2025-06-08 17:22:55,510 - INFO - Clicked tile at (4, 6): blue
+2025-06-08 17:22:55,511 - INFO - Selected tile at (4, 6)
+2025-06-08 17:22:55,710 - DEBUG - Tile at position (4, 7): blue
+2025-06-08 17:22:55,710 - INFO - Clicked tile at (4, 7): blue
+2025-06-08 17:22:55,710 - INFO - Swapping tiles: (4, 6) <-> (4, 7)
+2025-06-08 17:22:55,710 - INFO - Swapping tiles: blue <-> blue
+2025-06-08 17:22:55,710 - DEBUG - Found horizontal match at (2, 4)
+2025-06-08 17:22:55,711 - DEBUG - Found horizontal match at (2, 5)
+2025-06-08 17:22:55,711 - DEBUG - Found horizontal match at (2, 6)
+2025-06-08 17:22:55,711 - DEBUG - Found horizontal match at (4, 2)
+2025-06-08 17:22:55,711 - DEBUG - Found horizontal match at (5, 1)
+2025-06-08 17:22:55,711 - DEBUG - Found vertical match at (2, 1)
+2025-06-08 17:22:55,711 - DEBUG - Found vertical match at (3, 3)
+2025-06-08 17:22:55,711 - DEBUG - Found vertical match at (3, 6)
+2025-06-08 17:22:55,711 - DEBUG - Found vertical match at (4, 3)
+2025-06-08 17:22:55,711 - DEBUG - Found vertical match at (4, 6)
+2025-06-08 17:22:55,712 - INFO - Found 10 matches
+2025-06-08 17:22:56,082 - DEBUG - Tile at position (4, 6): blue
+2025-06-08 17:22:56,082 - INFO - Clicked tile at (4, 6): blue
+2025-06-08 17:22:56,082 - INFO - Selected tile at (4, 6)
+2025-06-08 17:22:56,283 - DEBUG - Tile at position (4, 7): blue
+2025-06-08 17:22:56,283 - INFO - Clicked tile at (4, 7): blue
+2025-06-08 17:22:56,283 - INFO - Swapping tiles: (4, 6) <-> (4, 7)
+2025-06-08 17:22:56,283 - INFO - Swapping tiles: blue <-> blue
+2025-06-08 17:22:56,285 - DEBUG - Found horizontal match at (2, 4)
+2025-06-08 17:22:56,285 - DEBUG - Found horizontal match at (2, 5)
+2025-06-08 17:22:56,285 - DEBUG - Found horizontal match at (2, 6)
+2025-06-08 17:22:56,285 - DEBUG - Found horizontal match at (4, 2)
+2025-06-08 17:22:56,285 - DEBUG - Found horizontal match at (5, 1)
+2025-06-08 17:22:56,285 - DEBUG - Found vertical match at (2, 1)
+2025-06-08 17:22:56,285 - DEBUG - Found vertical match at (3, 3)
+2025-06-08 17:22:56,285 - DEBUG - Found vertical match at (3, 6)
+2025-06-08 17:22:56,285 - DEBUG - Found vertical match at (4, 3)
+2025-06-08 17:22:56,286 - DEBUG - Found vertical match at (4, 6)
+2025-06-08 17:22:56,286 - INFO - Found 10 matches
+2025-06-08 17:22:56,537 - DEBUG - Tile at position (4, 6): blue
+2025-06-08 17:22:56,537 - INFO - Clicked tile at (4, 6): blue
+2025-06-08 17:22:56,537 - INFO - Selected tile at (4, 6)
+2025-06-08 17:22:56,778 - DEBUG - Tile at position (4, 7): blue
+2025-06-08 17:22:56,778 - INFO - Clicked tile at (4, 7): blue
+2025-06-08 17:22:56,779 - INFO - Swapping tiles: (4, 6) <-> (4, 7)
+2025-06-08 17:22:56,779 - INFO - Swapping tiles: blue <-> blue
+2025-06-08 17:22:56,779 - DEBUG - Found horizontal match at (2, 4)
+2025-06-08 17:22:56,779 - DEBUG - Found horizontal match at (2, 5)
+2025-06-08 17:22:56,779 - DEBUG - Found horizontal match at (2, 6)
+2025-06-08 17:22:56,779 - DEBUG - Found horizontal match at (4, 2)
+2025-06-08 17:22:56,779 - DEBUG - Found horizontal match at (5, 1)
+2025-06-08 17:22:56,779 - DEBUG - Found vertical match at (2, 1)
+2025-06-08 17:22:56,779 - DEBUG - Found vertical match at (3, 3)
+2025-06-08 17:22:56,780 - DEBUG - Found vertical match at (3, 6)
+2025-06-08 17:22:56,780 - DEBUG - Found vertical match at (4, 3)
+2025-06-08 17:22:56,780 - DEBUG - Found vertical match at (4, 6)
+2025-06-08 17:22:56,780 - INFO - Found 10 matches
+2025-06-08 17:22:57,017 - DEBUG - Tile at position (4, 6): blue
+2025-06-08 17:22:57,018 - INFO - Clicked tile at (4, 6): blue
+2025-06-08 17:22:57,018 - INFO - Selected tile at (4, 6)
+2025-06-08 17:22:57,226 - DEBUG - Tile at position (4, 6): blue
+2025-06-08 17:22:57,226 - INFO - Clicked tile at (4, 6): blue
+2025-06-08 17:22:57,226 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:22:57,539 - DEBUG - Tile at position (4, 6): blue
+2025-06-08 17:22:57,539 - INFO - Clicked tile at (4, 6): blue
+2025-06-08 17:22:57,540 - INFO - Selected tile at (4, 6)
+2025-06-08 17:22:57,734 - DEBUG - Tile at position (4, 7): blue
+2025-06-08 17:22:57,734 - INFO - Clicked tile at (4, 7): blue
+2025-06-08 17:22:57,734 - INFO - Swapping tiles: (4, 6) <-> (4, 7)
+2025-06-08 17:22:57,734 - INFO - Swapping tiles: blue <-> blue
+2025-06-08 17:22:57,734 - DEBUG - Found horizontal match at (2, 4)
+2025-06-08 17:22:57,734 - DEBUG - Found horizontal match at (2, 5)
+2025-06-08 17:22:57,734 - DEBUG - Found horizontal match at (2, 6)
+2025-06-08 17:22:57,734 - DEBUG - Found horizontal match at (4, 2)
+2025-06-08 17:22:57,735 - DEBUG - Found horizontal match at (5, 1)
+2025-06-08 17:22:57,735 - DEBUG - Found vertical match at (2, 1)
+2025-06-08 17:22:57,735 - DEBUG - Found vertical match at (3, 3)
+2025-06-08 17:22:57,735 - DEBUG - Found vertical match at (3, 6)
+2025-06-08 17:22:57,735 - DEBUG - Found vertical match at (4, 3)
+2025-06-08 17:22:57,735 - DEBUG - Found vertical match at (4, 6)
+2025-06-08 17:22:57,735 - INFO - Found 10 matches
+2025-06-08 17:22:58,076 - DEBUG - Tile at position (4, 6): blue
+2025-06-08 17:22:58,076 - INFO - Clicked tile at (4, 6): blue
+2025-06-08 17:22:58,076 - INFO - Selected tile at (4, 6)
+2025-06-08 17:22:58,314 - DEBUG - Tile at position (4, 7): blue
+2025-06-08 17:22:58,314 - INFO - Clicked tile at (4, 7): blue
+2025-06-08 17:22:58,314 - INFO - Swapping tiles: (4, 6) <-> (4, 7)
+2025-06-08 17:22:58,314 - INFO - Swapping tiles: blue <-> blue
+2025-06-08 17:22:58,316 - DEBUG - Found horizontal match at (2, 4)
+2025-06-08 17:22:58,316 - DEBUG - Found horizontal match at (2, 5)
+2025-06-08 17:22:58,316 - DEBUG - Found horizontal match at (2, 6)
+2025-06-08 17:22:58,316 - DEBUG - Found horizontal match at (4, 2)
+2025-06-08 17:22:58,316 - DEBUG - Found horizontal match at (5, 1)
+2025-06-08 17:22:58,316 - DEBUG - Found vertical match at (2, 1)
+2025-06-08 17:22:58,316 - DEBUG - Found vertical match at (3, 3)
+2025-06-08 17:22:58,317 - DEBUG - Found vertical match at (3, 6)
+2025-06-08 17:22:58,317 - DEBUG - Found vertical match at (4, 3)
+2025-06-08 17:22:58,317 - DEBUG - Found vertical match at (4, 6)
+2025-06-08 17:22:58,317 - INFO - Found 10 matches
+2025-06-08 17:25:08,168 - INFO - Initializing GamePage for level 1
+2025-06-08 17:25:08,169 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:08,169 - INFO - Loading tile images
+2025-06-08 17:25:08,179 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:08,190 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:08,201 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:08,212 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:08,222 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:08,232 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:08,243 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:08,253 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:08,269 - INFO - GamePage initialization complete
+2025-06-08 17:25:08,938 - INFO - Initializing GamePage for level 1
+2025-06-08 17:25:08,939 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:08,939 - INFO - Loading tile images
+2025-06-08 17:25:08,948 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:08,960 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:08,971 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:08,982 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:08,992 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:09,001 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:09,013 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:09,023 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:09,039 - INFO - GamePage initialization complete
+2025-06-08 17:25:09,458 - INFO - Initializing GamePage for level 2
+2025-06-08 17:25:09,458 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:09,458 - INFO - Loading tile images
+2025-06-08 17:25:09,470 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:09,481 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:09,495 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:09,507 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:09,517 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:09,527 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:09,539 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:09,549 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:09,566 - INFO - GamePage initialization complete
+2025-06-08 17:25:10,030 - DEBUG - Tile at position (2, 1): green
+2025-06-08 17:25:10,030 - INFO - Clicked tile at (2, 1): green
+2025-06-08 17:25:10,030 - INFO - Selected tile at (2, 1)
+2025-06-08 17:25:10,528 - INFO - Initializing GamePage for level 2
+2025-06-08 17:25:10,529 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:10,529 - INFO - Loading tile images
+2025-06-08 17:25:10,540 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:10,551 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:10,563 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:10,574 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:10,584 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:10,594 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:10,605 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:10,615 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:10,630 - INFO - GamePage initialization complete
+2025-06-08 17:25:11,148 - DEBUG - Tile at position (2, 1): green
+2025-06-08 17:25:11,148 - INFO - Clicked tile at (2, 1): green
+2025-06-08 17:25:11,148 - INFO - Selected tile at (2, 1)
+2025-06-08 17:25:11,412 - DEBUG - Tile at position (2, 2): green
+2025-06-08 17:25:11,412 - INFO - Clicked tile at (2, 2): green
+2025-06-08 17:25:11,412 - INFO - Swapping tiles: (2, 1) <-> (2, 2)
+2025-06-08 17:25:11,413 - INFO - Swapping tiles: green <-> green
+2025-06-08 17:25:11,413 - DEBUG - Found vertical match at (1, 3)
+2025-06-08 17:25:11,413 - INFO - Found 1 matches
+2025-06-08 17:25:12,155 - INFO - Initializing GamePage for level 2
+2025-06-08 17:25:12,156 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:12,156 - INFO - Loading tile images
+2025-06-08 17:25:12,166 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:12,176 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:12,190 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:12,200 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:12,210 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:12,222 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:12,232 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:12,243 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:12,259 - INFO - GamePage initialization complete
+2025-06-08 17:25:12,577 - DEBUG - Tile at position (2, 1): purple
+2025-06-08 17:25:12,577 - INFO - Clicked tile at (2, 1): purple
+2025-06-08 17:25:12,577 - INFO - Selected tile at (2, 1)
+2025-06-08 17:25:13,113 - INFO - Initializing GamePage for level 2
+2025-06-08 17:25:13,113 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:13,113 - INFO - Loading tile images
+2025-06-08 17:25:13,124 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:13,135 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:13,146 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:13,157 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:13,166 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:13,176 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:13,188 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:13,199 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:13,215 - INFO - GamePage initialization complete
+2025-06-08 17:25:13,648 - INFO - Initializing GamePage for level 2
+2025-06-08 17:25:13,648 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:13,649 - INFO - Loading tile images
+2025-06-08 17:25:13,658 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:13,669 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:13,681 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:13,692 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:13,702 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:13,712 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:13,723 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:13,733 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:13,749 - INFO - GamePage initialization complete
+2025-06-08 17:25:13,915 - DEBUG - Tile at position (3, 1): yellow
+2025-06-08 17:25:13,915 - INFO - Clicked tile at (3, 1): yellow
+2025-06-08 17:25:13,915 - INFO - Selected tile at (3, 1)
+2025-06-08 17:25:14,347 - DEBUG - Tile at position (2, 2): purple
+2025-06-08 17:25:14,348 - INFO - Clicked tile at (2, 2): purple
+2025-06-08 17:25:14,348 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:25:14,613 - DEBUG - Tile at position (2, 2): purple
+2025-06-08 17:25:14,613 - INFO - Clicked tile at (2, 2): purple
+2025-06-08 17:25:14,614 - INFO - Selected tile at (2, 2)
+2025-06-08 17:25:14,955 - DEBUG - Tile at position (2, 1): yellow
+2025-06-08 17:25:14,955 - INFO - Clicked tile at (2, 1): yellow
+2025-06-08 17:25:14,955 - INFO - Swapping tiles: (2, 2) <-> (2, 1)
+2025-06-08 17:25:14,955 - INFO - Swapping tiles: purple <-> yellow
+2025-06-08 17:25:14,956 - DEBUG - Found horizontal match at (2, 2)
+2025-06-08 17:25:14,956 - INFO - Found 1 matches
+2025-06-08 17:25:15,187 - DEBUG - Tile at position (2, 1): purple
+2025-06-08 17:25:15,187 - INFO - Clicked tile at (2, 1): purple
+2025-06-08 17:25:15,187 - INFO - Selected tile at (2, 1)
+2025-06-08 17:25:15,384 - DEBUG - Tile at position (2, 1): purple
+2025-06-08 17:25:15,384 - INFO - Clicked tile at (2, 1): purple
+2025-06-08 17:25:15,384 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:25:15,645 - DEBUG - Tile at position (2, 2): purple
+2025-06-08 17:25:15,646 - INFO - Clicked tile at (2, 2): purple
+2025-06-08 17:25:15,646 - INFO - Selected tile at (2, 2)
+2025-06-08 17:25:15,809 - DEBUG - Tile at position (2, 2): purple
+2025-06-08 17:25:15,809 - INFO - Clicked tile at (2, 2): purple
+2025-06-08 17:25:15,809 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:25:16,119 - DEBUG - No tile at position (712, 148)
+2025-06-08 17:25:16,120 - INFO - Clicked outside grid
+2025-06-08 17:25:16,298 - DEBUG - No tile at position (710, 149)
+2025-06-08 17:25:16,298 - INFO - Clicked outside grid
+2025-06-08 17:25:16,728 - DEBUG - Tile at position (2, 3): yellow
+2025-06-08 17:25:16,729 - INFO - Clicked tile at (2, 3): yellow
+2025-06-08 17:25:16,729 - INFO - Selected tile at (2, 3)
+2025-06-08 17:25:17,123 - DEBUG - Tile at position (2, 2): purple
+2025-06-08 17:25:17,123 - INFO - Clicked tile at (2, 2): purple
+2025-06-08 17:25:17,124 - INFO - Swapping tiles: (2, 3) <-> (2, 2)
+2025-06-08 17:25:17,124 - INFO - Swapping tiles: yellow <-> purple
+2025-06-08 17:25:17,124 - DEBUG - Found horizontal match at (1, 2)
+2025-06-08 17:25:17,124 - INFO - Found 1 matches
+2025-06-08 17:25:17,618 - INFO - Initializing GamePage for level 3
+2025-06-08 17:25:17,618 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:17,618 - INFO - Loading tile images
+2025-06-08 17:25:17,629 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:17,639 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:17,651 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:17,661 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:17,670 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:17,681 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:17,692 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:17,703 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:17,720 - INFO - GamePage initialization complete
+2025-06-08 17:25:18,358 - DEBUG - No tile at position (721, 282)
+2025-06-08 17:25:18,358 - INFO - Clicked outside grid
+2025-06-08 17:25:19,037 - DEBUG - No tile at position (62, 366)
+2025-06-08 17:25:19,037 - INFO - Clicked outside grid
+2025-06-08 17:25:19,428 - DEBUG - Tile at position (4, 5): red
+2025-06-08 17:25:19,428 - INFO - Clicked tile at (4, 5): red
+2025-06-08 17:25:19,430 - INFO - Selected tile at (4, 5)
+2025-06-08 17:25:19,694 - DEBUG - Tile at position (2, 4): purple
+2025-06-08 17:25:19,694 - INFO - Clicked tile at (2, 4): purple
+2025-06-08 17:25:19,694 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:25:19,925 - DEBUG - Tile at position (4, 2): blue
+2025-06-08 17:25:19,925 - INFO - Clicked tile at (4, 2): blue
+2025-06-08 17:25:19,925 - INFO - Selected tile at (4, 2)
+2025-06-08 17:25:20,090 - DEBUG - Tile at position (4, 3): blue
+2025-06-08 17:25:20,090 - INFO - Clicked tile at (4, 3): blue
+2025-06-08 17:25:20,091 - INFO - Swapping tiles: (4, 2) <-> (4, 3)
+2025-06-08 17:25:20,091 - INFO - Swapping tiles: blue <-> blue
+2025-06-08 17:25:20,091 - DEBUG - Found horizontal match at (4, 2)
+2025-06-08 17:25:20,091 - DEBUG - Found horizontal match at (4, 6)
+2025-06-08 17:25:20,091 - DEBUG - Found vertical match at (2, 3)
+2025-06-08 17:25:20,091 - DEBUG - Found vertical match at (3, 3)
+2025-06-08 17:25:20,092 - DEBUG - Found vertical match at (3, 6)
+2025-06-08 17:25:20,092 - DEBUG - Found vertical match at (4, 3)
+2025-06-08 17:25:20,092 - DEBUG - Found vertical match at (4, 6)
+2025-06-08 17:25:20,092 - DEBUG - Found vertical match at (5, 1)
+2025-06-08 17:25:20,092 - INFO - Found 8 matches
+2025-06-08 17:25:20,227 - DEBUG - Tile at position (4, 5): yellow
+2025-06-08 17:25:20,227 - INFO - Clicked tile at (4, 5): yellow
+2025-06-08 17:25:20,227 - INFO - Selected tile at (4, 5)
+2025-06-08 17:25:20,704 - DEBUG - Tile at position (4, 8): blue
+2025-06-08 17:25:20,704 - INFO - Clicked tile at (4, 8): blue
+2025-06-08 17:25:20,704 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:25:21,068 - DEBUG - Tile at position (3, 6): yellow
+2025-06-08 17:25:21,069 - INFO - Clicked tile at (3, 6): yellow
+2025-06-08 17:25:21,069 - INFO - Selected tile at (3, 6)
+2025-06-08 17:25:21,297 - DEBUG - Tile at position (4, 5): yellow
+2025-06-08 17:25:21,297 - INFO - Clicked tile at (4, 5): yellow
+2025-06-08 17:25:21,297 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:25:21,483 - DEBUG - Tile at position (4, 4): green
+2025-06-08 17:25:21,484 - INFO - Clicked tile at (4, 4): green
+2025-06-08 17:25:21,484 - INFO - Selected tile at (4, 4)
+2025-06-08 17:25:21,614 - DEBUG - Tile at position (4, 4): green
+2025-06-08 17:25:21,614 - INFO - Clicked tile at (4, 4): green
+2025-06-08 17:25:21,615 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:25:21,760 - DEBUG - Tile at position (4, 4): green
+2025-06-08 17:25:21,760 - INFO - Clicked tile at (4, 4): green
+2025-06-08 17:25:21,760 - INFO - Selected tile at (4, 4)
+2025-06-08 17:25:21,877 - DEBUG - Tile at position (4, 4): green
+2025-06-08 17:25:21,877 - INFO - Clicked tile at (4, 4): green
+2025-06-08 17:25:21,877 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:25:22,025 - DEBUG - Tile at position (4, 4): green
+2025-06-08 17:25:22,025 - INFO - Clicked tile at (4, 4): green
+2025-06-08 17:25:22,025 - INFO - Selected tile at (4, 4)
+2025-06-08 17:25:22,192 - DEBUG - Tile at position (3, 4): purple
+2025-06-08 17:25:22,192 - INFO - Clicked tile at (3, 4): purple
+2025-06-08 17:25:22,193 - INFO - Swapping tiles: (4, 4) <-> (3, 4)
+2025-06-08 17:25:22,193 - INFO - Swapping tiles: green <-> purple
+2025-06-08 17:25:22,193 - DEBUG - Found horizontal match at (4, 0)
+2025-06-08 17:25:22,193 - DEBUG - Found horizontal match at (4, 6)
+2025-06-08 17:25:22,193 - DEBUG - Found horizontal match at (4, 7)
+2025-06-08 17:25:22,193 - INFO - Found 3 matches
+2025-06-08 17:25:22,340 - DEBUG - Tile at position (3, 3): turquoise
+2025-06-08 17:25:22,340 - INFO - Clicked tile at (3, 3): turquoise
+2025-06-08 17:25:22,340 - INFO - Selected tile at (3, 3)
+2025-06-08 17:25:22,507 - DEBUG - Tile at position (3, 3): turquoise
+2025-06-08 17:25:22,507 - INFO - Clicked tile at (3, 3): turquoise
+2025-06-08 17:25:22,507 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:25:22,670 - DEBUG - Tile at position (4, 3): turquoise
+2025-06-08 17:25:22,671 - INFO - Clicked tile at (4, 3): turquoise
+2025-06-08 17:25:22,671 - INFO - Selected tile at (4, 3)
+2025-06-08 17:25:22,834 - DEBUG - Tile at position (4, 3): turquoise
+2025-06-08 17:25:22,834 - INFO - Clicked tile at (4, 3): turquoise
+2025-06-08 17:25:22,834 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:25:22,986 - INFO - Initializing GamePage for level 1
+2025-06-08 17:25:22,987 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:22,987 - INFO - Loading tile images
+2025-06-08 17:25:22,997 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:23,008 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:23,019 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:23,031 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:23,041 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:23,050 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:23,061 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:23,072 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:23,087 - INFO - GamePage initialization complete
+2025-06-08 17:25:23,160 - INFO - Initializing GamePage for level 1
+2025-06-08 17:25:23,160 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:23,161 - INFO - Loading tile images
+2025-06-08 17:25:23,171 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:23,183 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:23,194 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:23,205 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:23,215 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:23,225 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:23,235 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:23,246 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:23,263 - INFO - GamePage initialization complete
+2025-06-08 17:25:23,368 - DEBUG - Tile at position (6, 3): red
+2025-06-08 17:25:23,368 - INFO - Clicked tile at (6, 3): red
+2025-06-08 17:25:23,369 - INFO - Selected tile at (6, 3)
+2025-06-08 17:25:23,547 - INFO - Initializing GamePage for level 4
+2025-06-08 17:25:23,549 - INFO - Level loaded: grid_size=(10, 10), moves=20, objectives=['4;blue', '4;red', '4;purple', '2;flare']
+2025-06-08 17:25:23,549 - INFO - Loading tile images
+2025-06-08 17:25:23,558 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:23,570 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:23,582 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:23,592 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:23,601 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:23,612 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:23,622 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:23,633 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:23,648 - INFO - GamePage initialization complete
+2025-06-08 17:25:23,737 - INFO - Initializing GamePage for level 1
+2025-06-08 17:25:23,737 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:23,737 - INFO - Loading tile images
+2025-06-08 17:25:23,748 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:23,759 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:23,770 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:23,782 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:23,791 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:23,801 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:23,812 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:23,823 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:23,839 - INFO - GamePage initialization complete
+2025-06-08 17:25:23,894 - INFO - Initializing GamePage for level 1
+2025-06-08 17:25:23,895 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:23,895 - INFO - Loading tile images
+2025-06-08 17:25:23,905 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:23,916 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:23,928 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:23,939 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:23,948 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:23,958 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:23,968 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:23,980 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:23,995 - INFO - GamePage initialization complete
+2025-06-08 17:25:24,050 - INFO - Initializing GamePage for level 1
+2025-06-08 17:25:24,050 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:24,050 - INFO - Loading tile images
+2025-06-08 17:25:24,061 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:24,072 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:24,083 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:24,094 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:24,103 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:24,113 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:24,124 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:24,134 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:24,152 - INFO - GamePage initialization complete
+2025-06-08 17:25:24,207 - INFO - Initializing GamePage for level 1
+2025-06-08 17:25:24,207 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:24,207 - INFO - Loading tile images
+2025-06-08 17:25:24,217 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:24,228 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:24,240 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:24,252 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:24,261 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:24,274 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:24,284 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:24,295 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:24,310 - INFO - GamePage initialization complete
+2025-06-08 17:25:24,383 - INFO - Initializing GamePage for level 1
+2025-06-08 17:25:24,384 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:24,384 - INFO - Loading tile images
+2025-06-08 17:25:24,394 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:24,405 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:24,417 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:24,428 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:24,437 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:24,447 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:24,459 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:24,469 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:24,485 - INFO - GamePage initialization complete
+2025-06-08 17:25:24,556 - INFO - Initializing GamePage for level 1
+2025-06-08 17:25:24,556 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:24,557 - INFO - Loading tile images
+2025-06-08 17:25:24,566 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:24,578 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:24,589 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:24,599 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:24,609 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:24,619 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:24,630 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:24,640 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:24,656 - INFO - GamePage initialization complete
+2025-06-08 17:25:24,726 - INFO - Initializing GamePage for level 1
+2025-06-08 17:25:24,729 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:24,729 - INFO - Loading tile images
+2025-06-08 17:25:24,739 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:24,750 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:24,761 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:24,772 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:24,782 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:24,791 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:24,802 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:24,813 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:24,829 - INFO - GamePage initialization complete
+2025-06-08 17:25:24,884 - INFO - Initializing GamePage for level 1
+2025-06-08 17:25:24,884 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:24,885 - INFO - Loading tile images
+2025-06-08 17:25:24,894 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:24,905 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:24,916 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:24,927 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:24,937 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:24,948 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:24,958 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:24,968 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:24,986 - INFO - GamePage initialization complete
+2025-06-08 17:25:25,042 - INFO - Initializing GamePage for level 1
+2025-06-08 17:25:25,042 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:25,042 - INFO - Loading tile images
+2025-06-08 17:25:25,053 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:25,063 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:25,075 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:25,086 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:25,095 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:25,106 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:25,116 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:25,127 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:25,143 - INFO - GamePage initialization complete
+2025-06-08 17:25:25,199 - INFO - Initializing GamePage for level 1
+2025-06-08 17:25:25,199 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:25,199 - INFO - Loading tile images
+2025-06-08 17:25:25,210 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:25,221 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:25,232 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:25,243 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:25,252 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:25,263 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:25,273 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:25,284 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:25,299 - INFO - GamePage initialization complete
+2025-06-08 17:25:25,374 - INFO - Initializing GamePage for level 1
+2025-06-08 17:25:25,374 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:25,374 - INFO - Loading tile images
+2025-06-08 17:25:25,384 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:25,395 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:25,407 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:25,419 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:25,427 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:25,438 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:25,449 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:25,460 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:25,475 - INFO - GamePage initialization complete
+2025-06-08 17:25:25,811 - DEBUG - Tile at position (3, 3): blue
+2025-06-08 17:25:25,811 - INFO - Clicked tile at (3, 3): blue
+2025-06-08 17:25:25,811 - INFO - Selected tile at (3, 3)
+2025-06-08 17:25:25,977 - DEBUG - Tile at position (3, 3): blue
+2025-06-08 17:25:25,977 - INFO - Clicked tile at (3, 3): blue
+2025-06-08 17:25:25,977 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:25:26,226 - DEBUG - Tile at position (3, 3): blue
+2025-06-08 17:25:26,227 - INFO - Clicked tile at (3, 3): blue
+2025-06-08 17:25:26,227 - INFO - Selected tile at (3, 3)
+2025-06-08 17:25:26,375 - DEBUG - Tile at position (3, 3): blue
+2025-06-08 17:25:26,375 - INFO - Clicked tile at (3, 3): blue
+2025-06-08 17:25:26,375 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:25:26,671 - DEBUG - No tile at position (92, 233)
+2025-06-08 17:25:26,671 - INFO - Clicked outside grid
+2025-06-08 17:25:26,902 - DEBUG - Tile at position (3, 1): green
+2025-06-08 17:25:26,902 - INFO - Clicked tile at (3, 1): green
+2025-06-08 17:25:26,902 - INFO - Selected tile at (3, 1)
+2025-06-08 17:25:27,084 - DEBUG - Tile at position (3, 2): purple
+2025-06-08 17:25:27,084 - INFO - Clicked tile at (3, 2): purple
+2025-06-08 17:25:27,084 - INFO - Swapping tiles: (3, 1) <-> (3, 2)
+2025-06-08 17:25:27,084 - INFO - Swapping tiles: green <-> purple
+2025-06-08 17:25:27,085 - DEBUG - Found horizontal match at (0, 5)
+2025-06-08 17:25:27,085 - DEBUG - Found horizontal match at (5, 3)
+2025-06-08 17:25:27,085 - DEBUG - Found vertical match at (3, 7)
+2025-06-08 17:25:27,085 - DEBUG - Found vertical match at (3, 9)
+2025-06-08 17:25:27,085 - DEBUG - Found vertical match at (4, 7)
+2025-06-08 17:25:27,085 - DEBUG - Found vertical match at (4, 9)
+2025-06-08 17:25:27,085 - DEBUG - Found vertical match at (5, 1)
+2025-06-08 17:25:27,086 - DEBUG - Found vertical match at (5, 9)
+2025-06-08 17:25:27,086 - INFO - Found 8 matches
+2025-06-08 17:25:27,251 - DEBUG - Tile at position (3, 2): green
+2025-06-08 17:25:27,251 - INFO - Clicked tile at (3, 2): green
+2025-06-08 17:25:27,251 - INFO - Selected tile at (3, 2)
+2025-06-08 17:25:27,413 - DEBUG - Tile at position (4, 2): red
+2025-06-08 17:25:27,413 - INFO - Clicked tile at (4, 2): red
+2025-06-08 17:25:27,414 - INFO - Swapping tiles: (3, 2) <-> (4, 2)
+2025-06-08 17:25:27,414 - INFO - Swapping tiles: green <-> red
+2025-06-08 17:25:27,414 - DEBUG - Found horizontal match at (4, 5)
+2025-06-08 17:25:27,414 - DEBUG - Found horizontal match at (5, 3)
+2025-06-08 17:25:27,414 - INFO - Found 2 matches
+2025-06-08 17:25:27,588 - DEBUG - Tile at position (4, 2): green
+2025-06-08 17:25:27,588 - INFO - Clicked tile at (4, 2): green
+2025-06-08 17:25:27,588 - INFO - Selected tile at (4, 2)
+2025-06-08 17:25:27,753 - DEBUG - Tile at position (4, 2): green
+2025-06-08 17:25:27,753 - INFO - Clicked tile at (4, 2): green
+2025-06-08 17:25:27,753 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:25:27,919 - DEBUG - Tile at position (4, 3): green
+2025-06-08 17:25:27,919 - INFO - Clicked tile at (4, 3): green
+2025-06-08 17:25:27,919 - INFO - Selected tile at (4, 3)
+2025-06-08 17:25:28,100 - DEBUG - Tile at position (4, 3): green
+2025-06-08 17:25:28,100 - INFO - Clicked tile at (4, 3): green
+2025-06-08 17:25:28,100 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:25:28,249 - DEBUG - Tile at position (3, 6): red
+2025-06-08 17:25:28,250 - INFO - Clicked tile at (3, 6): red
+2025-06-08 17:25:28,250 - INFO - Selected tile at (3, 6)
+2025-06-08 17:25:28,415 - DEBUG - Tile at position (4, 6): green
+2025-06-08 17:25:28,415 - INFO - Clicked tile at (4, 6): green
+2025-06-08 17:25:28,415 - INFO - Swapping tiles: (3, 6) <-> (4, 6)
+2025-06-08 17:25:28,415 - INFO - Swapping tiles: red <-> green
+2025-06-08 17:25:28,416 - DEBUG - Found vertical match at (5, 3)
+2025-06-08 17:25:28,416 - INFO - Found 1 matches
+2025-06-08 17:25:28,580 - DEBUG - Tile at position (4, 7): green
+2025-06-08 17:25:28,580 - INFO - Clicked tile at (4, 7): green
+2025-06-08 17:25:28,581 - INFO - Selected tile at (4, 7)
+2025-06-08 17:25:28,747 - INFO - Initializing GamePage for level 3
+2025-06-08 17:25:28,748 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:28,748 - INFO - Loading tile images
+2025-06-08 17:25:28,758 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:28,770 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:28,781 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:28,792 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:28,802 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:28,812 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:28,823 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:28,834 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:28,849 - INFO - GamePage initialization complete
+2025-06-08 17:25:28,888 - INFO - Initializing GamePage for level 3
+2025-06-08 17:25:28,889 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:28,889 - INFO - Loading tile images
+2025-06-08 17:25:28,900 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:28,910 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:28,921 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:28,932 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:28,942 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:28,953 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:28,964 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:28,975 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:28,991 - INFO - GamePage initialization complete
+2025-06-08 17:25:29,044 - DEBUG - Tile at position (6, 6): blue
+2025-06-08 17:25:29,044 - INFO - Clicked tile at (6, 6): blue
+2025-06-08 17:25:29,044 - INFO - Selected tile at (6, 6)
+2025-06-08 17:25:29,208 - INFO - Initializing GamePage for level 2
+2025-06-08 17:25:29,208 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:29,209 - INFO - Loading tile images
+2025-06-08 17:25:29,219 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:29,230 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:29,242 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:29,253 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:29,263 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:29,274 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:29,285 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:29,295 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:29,312 - INFO - GamePage initialization complete
+2025-06-08 17:25:29,449 - DEBUG - Tile at position (3, 4): None
+2025-06-08 17:25:29,449 - INFO - Clicked tile at (3, 4): None
+2025-06-08 17:25:29,449 - INFO - Clicked empty cell
+2025-06-08 17:25:29,696 - INFO - Initializing GamePage for level 3
+2025-06-08 17:25:29,696 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:29,696 - INFO - Loading tile images
+2025-06-08 17:25:29,707 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:29,718 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:29,729 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:29,740 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:29,750 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:29,760 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:29,771 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:29,782 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:29,798 - INFO - GamePage initialization complete
+2025-06-08 17:25:30,036 - INFO - Initializing GamePage for level 2
+2025-06-08 17:25:30,036 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:30,037 - INFO - Loading tile images
+2025-06-08 17:25:30,046 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:30,058 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:30,069 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:30,080 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:30,089 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:30,100 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:30,110 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:30,120 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:30,136 - INFO - GamePage initialization complete
+2025-06-08 17:25:30,222 - INFO - Initializing GamePage for level 2
+2025-06-08 17:25:30,222 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:30,222 - INFO - Loading tile images
+2025-06-08 17:25:30,233 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:30,245 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:30,255 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:30,267 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:30,276 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:30,285 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:30,296 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:30,307 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:30,322 - INFO - GamePage initialization complete
+2025-06-08 17:25:30,408 - DEBUG - Tile at position (2, 1): purple
+2025-06-08 17:25:30,408 - INFO - Clicked tile at (2, 1): purple
+2025-06-08 17:25:30,408 - INFO - Selected tile at (2, 1)
+2025-06-08 17:25:30,557 - INFO - Initializing GamePage for level 1
+2025-06-08 17:25:30,558 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:25:30,558 - INFO - Loading tile images
+2025-06-08 17:25:30,568 - DEBUG - Loaded tile image: red
+2025-06-08 17:25:30,580 - DEBUG - Loaded tile image: blue
+2025-06-08 17:25:30,591 - DEBUG - Loaded tile image: green
+2025-06-08 17:25:30,603 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:25:30,612 - DEBUG - Loaded tile image: purple
+2025-06-08 17:25:30,623 - DEBUG - Loaded tile image: orange
+2025-06-08 17:25:30,635 - DEBUG - Loaded tile image: pink
+2025-06-08 17:25:30,646 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:25:30,664 - INFO - GamePage initialization complete
+2025-06-08 17:25:30,736 - DEBUG - Tile at position (4, 2): red
+2025-06-08 17:25:30,737 - INFO - Clicked tile at (4, 2): red
+2025-06-08 17:25:30,737 - INFO - Selected tile at (4, 2)
+2025-06-08 17:25:30,900 - DEBUG - Tile at position (4, 2): red
+2025-06-08 17:25:30,900 - INFO - Clicked tile at (4, 2): red
+2025-06-08 17:25:30,900 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:25:31,081 - DEBUG - Tile at position (4, 1): blue
+2025-06-08 17:25:31,082 - INFO - Clicked tile at (4, 1): blue
+2025-06-08 17:25:31,082 - INFO - Selected tile at (4, 1)
+2025-06-08 17:25:31,609 - DEBUG - Tile at position (4, 2): red
+2025-06-08 17:25:31,609 - INFO - Clicked tile at (4, 2): red
+2025-06-08 17:25:31,610 - INFO - Swapping tiles: (4, 1) <-> (4, 2)
+2025-06-08 17:25:31,610 - INFO - Swapping tiles: blue <-> red
+2025-06-08 17:25:31,610 - DEBUG - Found horizontal match at (8, 0)
+2025-06-08 17:25:31,610 - DEBUG - Found vertical match at (2, 4)
+2025-06-08 17:25:31,610 - DEBUG - Found vertical match at (4, 6)
+2025-06-08 17:25:31,610 - DEBUG - Found vertical match at (5, 9)
+2025-06-08 17:25:31,610 - DEBUG - Found vertical match at (6, 0)
+2025-06-08 17:25:31,610 - DEBUG - Found vertical match at (6, 2)
+2025-06-08 17:25:31,611 - DEBUG - Found vertical match at (6, 5)
+2025-06-08 17:25:31,611 - DEBUG - Found vertical match at (6, 7)
+2025-06-08 17:25:31,611 - DEBUG - Found vertical match at (7, 2)
+2025-06-08 17:25:31,611 - DEBUG - Found vertical match at (7, 5)
+2025-06-08 17:25:31,611 - INFO - Found 10 matches
+2025-06-08 17:25:32,151 - DEBUG - Tile at position (4, 1): red
+2025-06-08 17:25:32,151 - INFO - Clicked tile at (4, 1): red
+2025-06-08 17:25:32,151 - INFO - Selected tile at (4, 1)
+2025-06-08 17:25:32,380 - DEBUG - Tile at position (4, 2): red
+2025-06-08 17:25:32,381 - INFO - Clicked tile at (4, 2): red
+2025-06-08 17:25:32,381 - INFO - Swapping tiles: (4, 1) <-> (4, 2)
+2025-06-08 17:25:32,381 - INFO - Swapping tiles: red <-> red
+2025-06-08 17:25:32,381 - DEBUG - Found horizontal match at (1, 5)
+2025-06-08 17:25:32,381 - DEBUG - Found horizontal match at (2, 7)
+2025-06-08 17:25:32,381 - DEBUG - Found horizontal match at (4, 0)
+2025-06-08 17:25:32,381 - DEBUG - Found horizontal match at (6, 0)
+2025-06-08 17:25:32,381 - DEBUG - Found horizontal match at (6, 4)
+2025-06-08 17:25:32,381 - DEBUG - Found horizontal match at (6, 5)
+2025-06-08 17:25:32,381 - DEBUG - Found horizontal match at (6, 6)
+2025-06-08 17:25:32,381 - DEBUG - Found horizontal match at (8, 0)
+2025-06-08 17:25:32,381 - INFO - Found 8 matches
+2025-06-08 17:25:32,763 - DEBUG - Tile at position (4, 1): red
+2025-06-08 17:25:32,763 - INFO - Clicked tile at (4, 1): red
+2025-06-08 17:25:32,763 - INFO - Selected tile at (4, 1)
+2025-06-08 17:25:32,944 - DEBUG - Tile at position (4, 2): red
+2025-06-08 17:25:32,944 - INFO - Clicked tile at (4, 2): red
+2025-06-08 17:25:32,945 - INFO - Swapping tiles: (4, 1) <-> (4, 2)
+2025-06-08 17:25:32,945 - INFO - Swapping tiles: red <-> red
+2025-06-08 17:25:32,945 - DEBUG - Found horizontal match at (4, 5)
+2025-06-08 17:25:32,945 - DEBUG - Found horizontal match at (6, 6)
+2025-06-08 17:25:32,945 - INFO - Found 2 matches
+2025-06-08 17:25:33,254 - DEBUG - Tile at position (4, 1): red
+2025-06-08 17:25:33,254 - INFO - Clicked tile at (4, 1): red
+2025-06-08 17:25:33,254 - INFO - Selected tile at (4, 1)
+2025-06-08 17:25:33,464 - DEBUG - Tile at position (4, 2): red
+2025-06-08 17:25:33,464 - INFO - Clicked tile at (4, 2): red
+2025-06-08 17:25:33,464 - INFO - Swapping tiles: (4, 1) <-> (4, 2)
+2025-06-08 17:25:33,465 - INFO - Swapping tiles: red <-> red
+2025-06-08 17:25:33,465 - INFO - No matches found, swapping back
+2025-06-08 17:25:33,712 - DEBUG - Tile at position (4, 1): red
+2025-06-08 17:25:33,712 - INFO - Clicked tile at (4, 1): red
+2025-06-08 17:25:33,712 - INFO - Selected tile at (4, 1)
+2025-06-08 17:25:34,009 - DEBUG - Tile at position (4, 2): red
+2025-06-08 17:25:34,010 - INFO - Clicked tile at (4, 2): red
+2025-06-08 17:25:34,010 - INFO - Swapping tiles: (4, 1) <-> (4, 2)
+2025-06-08 17:25:34,010 - INFO - Swapping tiles: red <-> red
+2025-06-08 17:25:34,010 - INFO - No matches found, swapping back
+2025-06-08 17:25:34,355 - DEBUG - Tile at position (4, 1): red
+2025-06-08 17:25:34,355 - INFO - Clicked tile at (4, 1): red
+2025-06-08 17:25:34,355 - INFO - Selected tile at (4, 1)
+2025-06-08 17:25:34,552 - DEBUG - Tile at position (5, 1): purple
+2025-06-08 17:25:34,553 - INFO - Clicked tile at (5, 1): purple
+2025-06-08 17:25:34,553 - INFO - Swapping tiles: (4, 1) <-> (5, 1)
+2025-06-08 17:25:34,553 - INFO - Swapping tiles: red <-> purple
+2025-06-08 17:25:34,553 - INFO - No matches found, swapping back
+2025-06-08 17:25:34,949 - DEBUG - Tile at position (3, 1): green
+2025-06-08 17:25:34,950 - INFO - Clicked tile at (3, 1): green
+2025-06-08 17:25:34,950 - INFO - Selected tile at (3, 1)
+2025-06-08 17:25:35,183 - DEBUG - Tile at position (3, 2): green
+2025-06-08 17:25:35,183 - INFO - Clicked tile at (3, 2): green
+2025-06-08 17:25:35,183 - INFO - Swapping tiles: (3, 1) <-> (3, 2)
+2025-06-08 17:25:35,183 - INFO - Swapping tiles: green <-> green
+2025-06-08 17:25:35,184 - INFO - No matches found, swapping back
+2025-06-08 17:25:35,629 - DEBUG - Tile at position (2, 3): red
+2025-06-08 17:25:35,629 - INFO - Clicked tile at (2, 3): red
+2025-06-08 17:25:35,630 - INFO - Selected tile at (2, 3)
+2025-06-08 17:25:35,894 - DEBUG - Tile at position (2, 4): blue
+2025-06-08 17:25:35,894 - INFO - Clicked tile at (2, 4): blue
+2025-06-08 17:25:35,894 - INFO - Swapping tiles: (2, 3) <-> (2, 4)
+2025-06-08 17:25:35,894 - INFO - Swapping tiles: red <-> blue
+2025-06-08 17:25:35,894 - INFO - No matches found, swapping back
+2025-06-08 17:25:36,289 - DEBUG - Tile at position (3, 4): blue
+2025-06-08 17:25:36,289 - INFO - Clicked tile at (3, 4): blue
+2025-06-08 17:25:36,289 - INFO - Selected tile at (3, 4)
+2025-06-08 17:25:36,634 - DEBUG - Tile at position (3, 5): purple
+2025-06-08 17:25:36,634 - INFO - Clicked tile at (3, 5): purple
+2025-06-08 17:25:36,635 - INFO - Swapping tiles: (3, 4) <-> (3, 5)
+2025-06-08 17:25:36,635 - INFO - Swapping tiles: blue <-> purple
+2025-06-08 17:25:36,635 - DEBUG - Found vertical match at (3, 4)
+2025-06-08 17:25:36,635 - INFO - Found 1 matches
+2025-06-08 17:25:37,182 - DEBUG - Tile at position (2, 5): pink
+2025-06-08 17:25:37,182 - INFO - Clicked tile at (2, 5): pink
+2025-06-08 17:25:37,182 - INFO - Selected tile at (2, 5)
+2025-06-08 17:25:37,396 - DEBUG - Tile at position (2, 7): yellow
+2025-06-08 17:25:37,396 - INFO - Clicked tile at (2, 7): yellow
+2025-06-08 17:25:37,396 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:25:37,679 - DEBUG - Tile at position (2, 6): pink
+2025-06-08 17:25:37,679 - INFO - Clicked tile at (2, 6): pink
+2025-06-08 17:25:37,680 - INFO - Selected tile at (2, 6)
+2025-06-08 17:25:37,894 - DEBUG - Tile at position (2, 5): pink
+2025-06-08 17:25:37,894 - INFO - Clicked tile at (2, 5): pink
+2025-06-08 17:25:37,894 - INFO - Swapping tiles: (2, 6) <-> (2, 5)
+2025-06-08 17:25:37,894 - INFO - Swapping tiles: pink <-> pink
+2025-06-08 17:25:37,894 - INFO - No matches found, swapping back
+2025-06-08 17:25:38,550 - DEBUG - Tile at position (1, 5): yellow
+2025-06-08 17:25:38,550 - INFO - Clicked tile at (1, 5): yellow
+2025-06-08 17:25:38,550 - INFO - Selected tile at (1, 5)
+2025-06-08 17:25:38,834 - DEBUG - Tile at position (2, 5): pink
+2025-06-08 17:25:38,834 - INFO - Clicked tile at (2, 5): pink
+2025-06-08 17:25:38,834 - INFO - Swapping tiles: (1, 5) <-> (2, 5)
+2025-06-08 17:25:38,834 - INFO - Swapping tiles: yellow <-> pink
+2025-06-08 17:25:38,835 - INFO - No matches found, swapping back
+2025-06-08 17:25:39,165 - DEBUG - Tile at position (1, 4): pink
+2025-06-08 17:25:39,165 - INFO - Clicked tile at (1, 4): pink
+2025-06-08 17:25:39,165 - INFO - Selected tile at (1, 4)
+2025-06-08 17:25:39,400 - DEBUG - Tile at position (2, 4): red
+2025-06-08 17:25:39,400 - INFO - Clicked tile at (2, 4): red
+2025-06-08 17:25:39,401 - INFO - Swapping tiles: (1, 4) <-> (2, 4)
+2025-06-08 17:25:39,401 - INFO - Swapping tiles: pink <-> red
+2025-06-08 17:25:39,401 - DEBUG - Found horizontal match at (2, 4)
+2025-06-08 17:25:39,401 - INFO - Found 1 matches
+2025-06-08 17:25:40,205 - DEBUG - Tile at position (1, 5): yellow
+2025-06-08 17:25:40,205 - INFO - Clicked tile at (1, 5): yellow
+2025-06-08 17:25:40,205 - INFO - Selected tile at (1, 5)
+2025-06-08 17:25:40,483 - DEBUG - Tile at position (1, 4): pink
+2025-06-08 17:25:40,483 - INFO - Clicked tile at (1, 4): pink
+2025-06-08 17:25:40,483 - INFO - Swapping tiles: (1, 5) <-> (1, 4)
+2025-06-08 17:25:40,483 - INFO - Swapping tiles: yellow <-> pink
+2025-06-08 17:25:40,483 - INFO - No matches found, swapping back
+2025-06-08 17:25:40,880 - DEBUG - Tile at position (0, 5): green
+2025-06-08 17:25:40,880 - INFO - Clicked tile at (0, 5): green
+2025-06-08 17:25:40,881 - INFO - Selected tile at (0, 5)
+2025-06-08 17:25:41,172 - DEBUG - Tile at position (1, 5): yellow
+2025-06-08 17:25:41,172 - INFO - Clicked tile at (1, 5): yellow
+2025-06-08 17:25:41,172 - INFO - Swapping tiles: (0, 5) <-> (1, 5)
+2025-06-08 17:25:41,172 - INFO - Swapping tiles: green <-> yellow
+2025-06-08 17:25:41,172 - INFO - No matches found, swapping back
+2025-06-08 17:25:41,469 - DEBUG - Tile at position (1, 6): green
+2025-06-08 17:25:41,470 - INFO - Clicked tile at (1, 6): green
+2025-06-08 17:25:41,470 - INFO - Selected tile at (1, 6)
+2025-06-08 17:25:41,736 - DEBUG - Tile at position (0, 7): yellow
+2025-06-08 17:25:41,736 - INFO - Clicked tile at (0, 7): yellow
+2025-06-08 17:25:41,736 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:25:42,116 - DEBUG - Tile at position (1, 7): orange
+2025-06-08 17:25:42,116 - INFO - Clicked tile at (1, 7): orange
+2025-06-08 17:25:42,117 - INFO - Selected tile at (1, 7)
+2025-06-08 17:25:42,494 - DEBUG - Tile at position (1, 6): green
+2025-06-08 17:25:42,494 - INFO - Clicked tile at (1, 6): green
+2025-06-08 17:25:42,494 - INFO - Swapping tiles: (1, 7) <-> (1, 6)
+2025-06-08 17:25:42,495 - INFO - Swapping tiles: orange <-> green
+2025-06-08 17:25:42,495 - INFO - No matches found, swapping back
+2025-06-08 17:32:32,978 - INFO - Initializing GamePage for level 1
+2025-06-08 17:32:32,979 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:32:32,979 - INFO - Loading tile images
+2025-06-08 17:32:32,989 - DEBUG - Loaded tile image: red
+2025-06-08 17:32:33,001 - DEBUG - Loaded tile image: blue
+2025-06-08 17:32:33,011 - DEBUG - Loaded tile image: green
+2025-06-08 17:32:33,023 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:32:33,033 - DEBUG - Loaded tile image: purple
+2025-06-08 17:32:33,043 - DEBUG - Loaded tile image: orange
+2025-06-08 17:32:33,054 - DEBUG - Loaded tile image: pink
+2025-06-08 17:32:33,065 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:32:33,081 - INFO - GamePage initialization complete
+2025-06-08 17:32:34,644 - DEBUG - Tile at position (4, 2): yellow
+2025-06-08 17:32:34,644 - INFO - Clicked tile at (4, 2): yellow
+2025-06-08 17:32:34,644 - INFO - Selected tile at (4, 2)
+2025-06-08 17:32:35,276 - DEBUG - Tile at position (4, 3): purple
+2025-06-08 17:32:35,276 - INFO - Clicked tile at (4, 3): purple
+2025-06-08 17:32:35,276 - INFO - Swapping tiles: (4, 2) <-> (4, 3)
+2025-06-08 17:32:35,277 - INFO - Swapping tiles: yellow <-> purple
+2025-06-08 17:32:35,277 - DEBUG - Found horizontal match at (3, 4)
+2025-06-08 17:32:35,277 - DEBUG - Found vertical match at (0, 2)
+2025-06-08 17:32:35,277 - DEBUG - Found vertical match at (2, 7)
+2025-06-08 17:32:35,277 - DEBUG - Found vertical match at (4, 5)
+2025-06-08 17:32:35,277 - DEBUG - Found vertical match at (6, 2)
+2025-06-08 17:32:35,277 - INFO - Found 5 matches
+2025-06-08 17:32:35,982 - DEBUG - Tile at position (4, 2): yellow
+2025-06-08 17:32:35,982 - INFO - Clicked tile at (4, 2): yellow
+2025-06-08 17:32:35,982 - INFO - Selected tile at (4, 2)
+2025-06-08 17:32:36,232 - DEBUG - Tile at position (4, 3): yellow
+2025-06-08 17:32:36,233 - INFO - Clicked tile at (4, 3): yellow
+2025-06-08 17:32:36,233 - INFO - Swapping tiles: (4, 2) <-> (4, 3)
+2025-06-08 17:32:36,233 - INFO - Swapping tiles: yellow <-> yellow
+2025-06-08 17:32:36,233 - DEBUG - Found horizontal match at (1, 7)
+2025-06-08 17:32:36,233 - DEBUG - Found horizontal match at (4, 1)
+2025-06-08 17:32:36,233 - DEBUG - Found horizontal match at (5, 1)
+2025-06-08 17:32:36,233 - INFO - Found 3 matches
+2025-06-08 17:32:36,849 - DEBUG - Tile at position (4, 4): purple
+2025-06-08 17:32:36,850 - INFO - Clicked tile at (4, 4): purple
+2025-06-08 17:32:36,850 - INFO - Selected tile at (4, 4)
+2025-06-08 17:32:37,146 - DEBUG - Tile at position (4, 5): yellow
+2025-06-08 17:32:37,146 - INFO - Clicked tile at (4, 5): yellow
+2025-06-08 17:32:37,146 - INFO - Swapping tiles: (4, 4) <-> (4, 5)
+2025-06-08 17:32:37,146 - INFO - Swapping tiles: purple <-> yellow
+2025-06-08 17:32:37,147 - DEBUG - Found horizontal match at (1, 7)
+2025-06-08 17:32:37,147 - DEBUG - Found horizontal match at (4, 2)
+2025-06-08 17:32:37,147 - DEBUG - Found horizontal match at (5, 1)
+2025-06-08 17:32:37,147 - INFO - Found 3 matches
+2025-06-08 17:32:37,595 - DEBUG - Tile at position (4, 4): yellow
+2025-06-08 17:32:37,595 - INFO - Clicked tile at (4, 4): yellow
+2025-06-08 17:32:37,595 - INFO - Selected tile at (4, 4)
+2025-06-08 17:32:37,824 - DEBUG - Tile at position (4, 5): purple
+2025-06-08 17:32:37,824 - INFO - Clicked tile at (4, 5): purple
+2025-06-08 17:32:37,824 - INFO - Swapping tiles: (4, 4) <-> (4, 5)
+2025-06-08 17:32:37,824 - INFO - Swapping tiles: yellow <-> purple
+2025-06-08 17:32:37,825 - INFO - No matches found, swapping back
+2025-06-08 17:32:38,134 - INFO - Initializing GamePage for level 2
+2025-06-08 17:32:38,134 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:32:38,134 - INFO - Loading tile images
+2025-06-08 17:32:38,145 - DEBUG - Loaded tile image: red
+2025-06-08 17:32:38,156 - DEBUG - Loaded tile image: blue
+2025-06-08 17:32:38,167 - DEBUG - Loaded tile image: green
+2025-06-08 17:32:38,179 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:32:38,187 - DEBUG - Loaded tile image: purple
+2025-06-08 17:32:38,198 - DEBUG - Loaded tile image: orange
+2025-06-08 17:32:38,209 - DEBUG - Loaded tile image: pink
+2025-06-08 17:32:38,219 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:32:38,236 - INFO - GamePage initialization complete
+2025-06-08 17:32:38,936 - INFO - Initializing GamePage for level 3
+2025-06-08 17:32:38,937 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:32:38,937 - INFO - Loading tile images
+2025-06-08 17:32:38,947 - DEBUG - Loaded tile image: red
+2025-06-08 17:32:38,959 - DEBUG - Loaded tile image: blue
+2025-06-08 17:32:38,969 - DEBUG - Loaded tile image: green
+2025-06-08 17:32:38,981 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:32:38,989 - DEBUG - Loaded tile image: purple
+2025-06-08 17:32:39,001 - DEBUG - Loaded tile image: orange
+2025-06-08 17:32:39,012 - DEBUG - Loaded tile image: pink
+2025-06-08 17:32:39,023 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:32:39,039 - INFO - GamePage initialization complete
+2025-06-08 17:32:39,875 - DEBUG - Tile at position (6, 7): yellow
+2025-06-08 17:32:39,875 - INFO - Clicked tile at (6, 7): yellow
+2025-06-08 17:32:39,875 - INFO - Selected tile at (6, 7)
+2025-06-08 17:32:40,257 - DEBUG - Tile at position (6, 8): green
+2025-06-08 17:32:40,257 - INFO - Clicked tile at (6, 8): green
+2025-06-08 17:32:40,257 - INFO - Swapping tiles: (6, 7) <-> (6, 8)
+2025-06-08 17:32:40,257 - INFO - Swapping tiles: yellow <-> green
+2025-06-08 17:32:40,258 - DEBUG - Found horizontal match at (4, 2)
+2025-06-08 17:32:40,258 - DEBUG - Found horizontal match at (5, 0)
+2025-06-08 17:32:40,258 - DEBUG - Found horizontal match at (8, 5)
+2025-06-08 17:32:40,258 - DEBUG - Found vertical match at (3, 3)
+2025-06-08 17:32:40,258 - DEBUG - Found vertical match at (3, 6)
+2025-06-08 17:32:40,258 - DEBUG - Found vertical match at (4, 3)
+2025-06-08 17:32:40,258 - DEBUG - Found vertical match at (4, 4)
+2025-06-08 17:32:40,258 - DEBUG - Found vertical match at (4, 6)
+2025-06-08 17:32:40,258 - DEBUG - Found vertical match at (6, 2)
+2025-06-08 17:32:40,258 - INFO - Found 9 matches
+2025-06-08 17:32:40,545 - DEBUG - Tile at position (5, 7): yellow
+2025-06-08 17:32:40,545 - INFO - Clicked tile at (5, 7): yellow
+2025-06-08 17:32:40,545 - INFO - Selected tile at (5, 7)
+2025-06-08 17:32:40,811 - INFO - Initializing GamePage for level 6
+2025-06-08 17:32:40,811 - INFO - Level loaded: grid_size=(8, 8), moves=30, objectives=['4;blue', '20;red']
+2025-06-08 17:32:40,812 - INFO - Loading tile images
+2025-06-08 17:32:40,823 - DEBUG - Loaded tile image: red
+2025-06-08 17:32:40,834 - DEBUG - Loaded tile image: blue
+2025-06-08 17:32:40,845 - DEBUG - Loaded tile image: green
+2025-06-08 17:32:40,856 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:32:40,866 - DEBUG - Loaded tile image: purple
+2025-06-08 17:32:40,876 - DEBUG - Loaded tile image: orange
+2025-06-08 17:32:40,887 - DEBUG - Loaded tile image: pink
+2025-06-08 17:32:40,898 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:32:40,914 - INFO - GamePage initialization complete
+2025-06-08 17:32:40,967 - INFO - Initializing GamePage for level 6
+2025-06-08 17:32:40,967 - INFO - Level loaded: grid_size=(8, 8), moves=30, objectives=['4;blue', '20;red']
+2025-06-08 17:32:40,968 - INFO - Loading tile images
+2025-06-08 17:32:40,978 - DEBUG - Loaded tile image: red
+2025-06-08 17:32:40,989 - DEBUG - Loaded tile image: blue
+2025-06-08 17:32:40,999 - DEBUG - Loaded tile image: green
+2025-06-08 17:32:41,011 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:32:41,020 - DEBUG - Loaded tile image: purple
+2025-06-08 17:32:41,030 - DEBUG - Loaded tile image: orange
+2025-06-08 17:32:41,041 - DEBUG - Loaded tile image: pink
+2025-06-08 17:32:41,052 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:32:41,067 - INFO - GamePage initialization complete
+2025-06-08 17:32:41,155 - INFO - Initializing GamePage for level 5
+2025-06-08 17:32:41,155 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:32:41,155 - INFO - Loading tile images
+2025-06-08 17:32:41,165 - DEBUG - Loaded tile image: red
+2025-06-08 17:32:41,177 - DEBUG - Loaded tile image: blue
+2025-06-08 17:32:41,189 - DEBUG - Loaded tile image: green
+2025-06-08 17:32:41,199 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:32:41,209 - DEBUG - Loaded tile image: purple
+2025-06-08 17:32:41,219 - DEBUG - Loaded tile image: orange
+2025-06-08 17:32:41,229 - DEBUG - Loaded tile image: pink
+2025-06-08 17:32:41,240 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:32:41,256 - INFO - GamePage initialization complete
+2025-06-08 17:32:41,357 - INFO - Initializing GamePage for level 5
+2025-06-08 17:32:41,358 - INFO - Level loaded: grid_size=(5, 5), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:32:41,358 - INFO - Loading tile images
+2025-06-08 17:32:41,368 - DEBUG - Loaded tile image: red
+2025-06-08 17:32:41,378 - DEBUG - Loaded tile image: blue
+2025-06-08 17:32:41,389 - DEBUG - Loaded tile image: green
+2025-06-08 17:32:41,400 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:32:41,410 - DEBUG - Loaded tile image: purple
+2025-06-08 17:32:41,419 - DEBUG - Loaded tile image: orange
+2025-06-08 17:32:41,431 - DEBUG - Loaded tile image: pink
+2025-06-08 17:32:41,442 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:32:41,459 - INFO - GamePage initialization complete
+2025-06-08 17:32:41,526 - INFO - Initializing GamePage for level 4
+2025-06-08 17:32:41,528 - INFO - Level loaded: grid_size=(10, 10), moves=20, objectives=['4;blue', '4;red', '4;purple', '2;flare']
+2025-06-08 17:32:41,528 - INFO - Loading tile images
+2025-06-08 17:32:41,537 - DEBUG - Loaded tile image: red
+2025-06-08 17:32:41,549 - DEBUG - Loaded tile image: blue
+2025-06-08 17:32:41,561 - DEBUG - Loaded tile image: green
+2025-06-08 17:32:41,571 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:32:41,580 - DEBUG - Loaded tile image: purple
+2025-06-08 17:32:41,591 - DEBUG - Loaded tile image: orange
+2025-06-08 17:32:41,602 - DEBUG - Loaded tile image: pink
+2025-06-08 17:32:41,612 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:32:41,628 - INFO - GamePage initialization complete
+2025-06-08 17:32:41,715 - DEBUG - Tile at position (6, 2): blue
+2025-06-08 17:32:41,716 - INFO - Clicked tile at (6, 2): blue
+2025-06-08 17:32:41,716 - INFO - Selected tile at (6, 2)
+2025-06-08 17:32:41,898 - DEBUG - Tile at position (7, 1): red
+2025-06-08 17:32:41,899 - INFO - Clicked tile at (7, 1): red
+2025-06-08 17:32:41,899 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:32:42,079 - DEBUG - Tile at position (8, 1): blue
+2025-06-08 17:32:42,079 - INFO - Clicked tile at (8, 1): blue
+2025-06-08 17:32:42,079 - INFO - Selected tile at (8, 1)
+2025-06-08 17:32:42,244 - INFO - Initializing GamePage for level 7
+2025-06-08 17:32:42,245 - INFO - Level loaded: grid_size=(8, 8), moves=30, objectives=['4;blue', '20;red']
+2025-06-08 17:32:42,245 - INFO - Loading tile images
+2025-06-08 17:32:42,256 - DEBUG - Loaded tile image: red
+2025-06-08 17:32:42,267 - DEBUG - Loaded tile image: blue
+2025-06-08 17:32:42,278 - DEBUG - Loaded tile image: green
+2025-06-08 17:32:42,289 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:32:42,298 - DEBUG - Loaded tile image: purple
+2025-06-08 17:32:42,309 - DEBUG - Loaded tile image: orange
+2025-06-08 17:32:42,319 - DEBUG - Loaded tile image: pink
+2025-06-08 17:32:42,330 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:32:42,346 - INFO - GamePage initialization complete
+2025-06-08 17:32:42,419 - DEBUG - Tile at position (7, 4): red
+2025-06-08 17:32:42,419 - INFO - Clicked tile at (7, 4): red
+2025-06-08 17:32:42,419 - INFO - Selected tile at (7, 4)
+2025-06-08 17:32:42,585 - INFO - Initializing GamePage for level 9
+2025-06-08 17:32:42,586 - INFO - Level loaded: grid_size=(8, 8), moves=30, objectives=['4;blue', '20;red']
+2025-06-08 17:32:42,586 - INFO - Loading tile images
+2025-06-08 17:32:42,596 - DEBUG - Loaded tile image: red
+2025-06-08 17:32:42,607 - DEBUG - Loaded tile image: blue
+2025-06-08 17:32:42,619 - DEBUG - Loaded tile image: green
+2025-06-08 17:32:42,629 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:32:42,639 - DEBUG - Loaded tile image: purple
+2025-06-08 17:32:42,648 - DEBUG - Loaded tile image: orange
+2025-06-08 17:32:42,660 - DEBUG - Loaded tile image: pink
+2025-06-08 17:32:42,670 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:32:42,687 - INFO - GamePage initialization complete
+2025-06-08 17:32:42,743 - INFO - Initializing GamePage for level 9
+2025-06-08 17:32:42,743 - INFO - Level loaded: grid_size=(8, 8), moves=30, objectives=['4;blue', '20;red']
+2025-06-08 17:32:42,743 - INFO - Loading tile images
+2025-06-08 17:32:42,754 - DEBUG - Loaded tile image: red
+2025-06-08 17:32:42,765 - DEBUG - Loaded tile image: blue
+2025-06-08 17:32:42,776 - DEBUG - Loaded tile image: green
+2025-06-08 17:32:42,787 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:32:42,797 - DEBUG - Loaded tile image: purple
+2025-06-08 17:32:42,806 - DEBUG - Loaded tile image: orange
+2025-06-08 17:32:42,818 - DEBUG - Loaded tile image: pink
+2025-06-08 17:32:42,828 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:32:42,843 - INFO - GamePage initialization complete
+2025-06-08 17:32:42,914 - DEBUG - Tile at position (7, 7): yellow
+2025-06-08 17:32:42,914 - INFO - Clicked tile at (7, 7): yellow
+2025-06-08 17:32:42,914 - INFO - Selected tile at (7, 7)
+2025-06-08 17:32:43,116 - DEBUG - No tile at position (672, 511)
+2025-06-08 17:32:43,116 - INFO - Clicked outside grid
+2025-06-08 17:32:43,331 - DEBUG - Tile at position (6, 7): red
+2025-06-08 17:32:43,332 - INFO - Clicked tile at (6, 7): red
+2025-06-08 17:32:43,332 - INFO - Selected tile at (6, 7)
+2025-06-08 17:32:43,543 - DEBUG - Tile at position (6, 6): purple
+2025-06-08 17:32:43,543 - INFO - Clicked tile at (6, 6): purple
+2025-06-08 17:32:43,543 - INFO - Swapping tiles: (6, 7) <-> (6, 6)
+2025-06-08 17:32:43,543 - INFO - Swapping tiles: red <-> purple
+2025-06-08 17:32:43,543 - INFO - No matches found, swapping back
+2025-06-08 17:32:43,759 - INFO - Initializing GamePage for level 9
+2025-06-08 17:32:43,761 - INFO - Level loaded: grid_size=(8, 8), moves=30, objectives=['4;blue', '20;red']
+2025-06-08 17:32:43,761 - INFO - Loading tile images
+2025-06-08 17:32:43,771 - DEBUG - Loaded tile image: red
+2025-06-08 17:32:43,782 - DEBUG - Loaded tile image: blue
+2025-06-08 17:32:43,793 - DEBUG - Loaded tile image: green
+2025-06-08 17:32:43,805 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:32:43,815 - DEBUG - Loaded tile image: purple
+2025-06-08 17:32:43,825 - DEBUG - Loaded tile image: orange
+2025-06-08 17:32:43,836 - DEBUG - Loaded tile image: pink
+2025-06-08 17:32:43,847 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:32:43,863 - INFO - GamePage initialization complete
+2025-06-08 17:32:44,002 - INFO - Initializing GamePage for level 9
+2025-06-08 17:32:44,002 - INFO - Level loaded: grid_size=(8, 8), moves=30, objectives=['4;blue', '20;red']
+2025-06-08 17:32:44,003 - INFO - Loading tile images
+2025-06-08 17:32:44,013 - DEBUG - Loaded tile image: red
+2025-06-08 17:32:44,024 - DEBUG - Loaded tile image: blue
+2025-06-08 17:32:44,035 - DEBUG - Loaded tile image: green
+2025-06-08 17:32:44,046 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:32:44,055 - DEBUG - Loaded tile image: purple
+2025-06-08 17:32:44,065 - DEBUG - Loaded tile image: orange
+2025-06-08 17:32:44,076 - DEBUG - Loaded tile image: pink
+2025-06-08 17:32:44,087 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:32:44,102 - INFO - GamePage initialization complete
+2025-06-08 17:32:44,190 - DEBUG - Tile at position (6, 5): yellow
+2025-06-08 17:32:44,190 - INFO - Clicked tile at (6, 5): yellow
+2025-06-08 17:32:44,190 - INFO - Selected tile at (6, 5)
+2025-06-08 17:32:44,406 - DEBUG - Tile at position (6, 5): yellow
+2025-06-08 17:32:44,406 - INFO - Clicked tile at (6, 5): yellow
+2025-06-08 17:32:44,406 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:32:44,625 - INFO - Initializing GamePage for level 6
+2025-06-08 17:32:44,626 - INFO - Level loaded: grid_size=(8, 8), moves=30, objectives=['4;blue', '20;red']
+2025-06-08 17:32:44,626 - INFO - Loading tile images
+2025-06-08 17:32:44,636 - DEBUG - Loaded tile image: red
+2025-06-08 17:32:44,647 - DEBUG - Loaded tile image: blue
+2025-06-08 17:32:44,661 - DEBUG - Loaded tile image: green
+2025-06-08 17:32:44,672 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:32:44,681 - DEBUG - Loaded tile image: purple
+2025-06-08 17:32:44,691 - DEBUG - Loaded tile image: orange
+2025-06-08 17:32:44,702 - DEBUG - Loaded tile image: pink
+2025-06-08 17:32:44,713 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:32:44,728 - INFO - GamePage initialization complete
+2025-06-08 17:32:44,929 - INFO - Initializing GamePage for level 6
+2025-06-08 17:32:44,929 - INFO - Level loaded: grid_size=(8, 8), moves=30, objectives=['4;blue', '20;red']
+2025-06-08 17:32:44,930 - INFO - Loading tile images
+2025-06-08 17:32:44,939 - DEBUG - Loaded tile image: red
+2025-06-08 17:32:44,950 - DEBUG - Loaded tile image: blue
+2025-06-08 17:32:44,961 - DEBUG - Loaded tile image: green
+2025-06-08 17:32:44,972 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:32:44,982 - DEBUG - Loaded tile image: purple
+2025-06-08 17:32:44,991 - DEBUG - Loaded tile image: orange
+2025-06-08 17:32:45,002 - DEBUG - Loaded tile image: pink
+2025-06-08 17:32:45,013 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:32:45,029 - INFO - GamePage initialization complete
+2025-06-08 17:32:45,350 - INFO - Initializing GamePage for level 9
+2025-06-08 17:32:45,351 - INFO - Level loaded: grid_size=(8, 8), moves=30, objectives=['4;blue', '20;red']
+2025-06-08 17:32:45,351 - INFO - Loading tile images
+2025-06-08 17:32:45,361 - DEBUG - Loaded tile image: red
+2025-06-08 17:32:45,373 - DEBUG - Loaded tile image: blue
+2025-06-08 17:32:45,383 - DEBUG - Loaded tile image: green
+2025-06-08 17:32:45,393 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:32:45,403 - DEBUG - Loaded tile image: purple
+2025-06-08 17:32:45,413 - DEBUG - Loaded tile image: orange
+2025-06-08 17:32:45,424 - DEBUG - Loaded tile image: pink
+2025-06-08 17:32:45,435 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:32:45,451 - INFO - GamePage initialization complete
+2025-06-08 17:32:45,590 - INFO - Initializing GamePage for level 9
+2025-06-08 17:32:45,590 - INFO - Level loaded: grid_size=(8, 8), moves=30, objectives=['4;blue', '20;red']
+2025-06-08 17:32:45,590 - INFO - Loading tile images
+2025-06-08 17:32:45,599 - DEBUG - Loaded tile image: red
+2025-06-08 17:32:45,611 - DEBUG - Loaded tile image: blue
+2025-06-08 17:32:45,622 - DEBUG - Loaded tile image: green
+2025-06-08 17:32:45,634 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:32:45,643 - DEBUG - Loaded tile image: purple
+2025-06-08 17:32:45,653 - DEBUG - Loaded tile image: orange
+2025-06-08 17:32:45,664 - DEBUG - Loaded tile image: pink
+2025-06-08 17:32:45,675 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:32:45,690 - INFO - GamePage initialization complete
+2025-06-08 17:35:23,748 - INFO - Initializing GamePage for level 1
+2025-06-08 17:35:23,749 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:35:23,749 - INFO - Loading tile images
+2025-06-08 17:35:23,759 - DEBUG - Loaded tile image: red
+2025-06-08 17:35:23,771 - DEBUG - Loaded tile image: blue
+2025-06-08 17:35:23,782 - DEBUG - Loaded tile image: green
+2025-06-08 17:35:23,794 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:35:23,804 - DEBUG - Loaded tile image: purple
+2025-06-08 17:35:23,815 - DEBUG - Loaded tile image: orange
+2025-06-08 17:35:23,827 - DEBUG - Loaded tile image: pink
+2025-06-08 17:35:23,838 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:35:23,854 - INFO - GamePage initialization complete
+2025-06-08 17:35:25,794 - DEBUG - Tile at position (3, 1): blue
+2025-06-08 17:35:25,794 - INFO - Clicked tile at (3, 1): blue
+2025-06-08 17:35:25,794 - INFO - Selected tile at (3, 1)
+2025-06-08 17:35:26,627 - DEBUG - Tile at position (3, 1): blue
+2025-06-08 17:35:26,627 - INFO - Clicked tile at (3, 1): blue
+2025-06-08 17:35:26,627 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:35:26,874 - DEBUG - Tile at position (3, 1): blue
+2025-06-08 17:35:26,874 - INFO - Clicked tile at (3, 1): blue
+2025-06-08 17:35:26,874 - INFO - Selected tile at (3, 1)
+2025-06-08 17:35:27,466 - DEBUG - Tile at position (7, 2): green
+2025-06-08 17:35:27,466 - INFO - Clicked tile at (7, 2): green
+2025-06-08 17:35:27,467 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:36:32,834 - INFO - Initializing GamePage for level 1
+2025-06-08 17:36:32,835 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:36:32,835 - INFO - Loading tile images
+2025-06-08 17:36:32,847 - DEBUG - Loaded tile image: red
+2025-06-08 17:36:32,860 - DEBUG - Loaded tile image: blue
+2025-06-08 17:36:32,873 - DEBUG - Loaded tile image: green
+2025-06-08 17:36:32,885 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:36:32,896 - DEBUG - Loaded tile image: purple
+2025-06-08 17:36:32,907 - DEBUG - Loaded tile image: orange
+2025-06-08 17:36:32,918 - DEBUG - Loaded tile image: pink
+2025-06-08 17:36:32,929 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:36:32,944 - INFO - GamePage initialization complete
+2025-06-08 17:36:33,881 - DEBUG - Tile at position (4, 1): red
+2025-06-08 17:36:33,881 - INFO - Clicked tile at (4, 1): red
+2025-06-08 17:36:33,881 - INFO - Selected tile at (4, 1)
+2025-06-08 17:36:34,046 - DEBUG - Tile at position (3, 1): blue
+2025-06-08 17:36:34,046 - INFO - Clicked tile at (3, 1): blue
+2025-06-08 17:36:34,046 - INFO - Swapping tiles: (4, 1) <-> (3, 1)
+2025-06-08 17:36:34,046 - INFO - Swapping tiles: red <-> blue
+2025-06-08 17:36:34,047 - DEBUG - Found horizontal match at (4, 2)
+2025-06-08 17:36:34,047 - DEBUG - Found horizontal match at (6, 6)
+2025-06-08 17:36:34,047 - DEBUG - Found horizontal match at (6, 7)
+2025-06-08 17:36:34,047 - DEBUG - Found horizontal match at (7, 7)
+2025-06-08 17:36:34,047 - DEBUG - Found horizontal match at (9, 0)
+2025-06-08 17:36:34,047 - DEBUG - Found vertical match at (4, 2)
+2025-06-08 17:36:34,047 - INFO - Found 6 matches
+2025-06-08 17:36:34,195 - DEBUG - Tile at position (3, 3): purple
+2025-06-08 17:36:34,195 - INFO - Clicked tile at (3, 3): purple
+2025-06-08 17:36:34,195 - INFO - Selected tile at (3, 3)
+2025-06-08 17:36:34,578 - DEBUG - Tile at position (3, 4): purple
+2025-06-08 17:36:34,578 - INFO - Clicked tile at (3, 4): purple
+2025-06-08 17:36:34,578 - INFO - Swapping tiles: (3, 3) <-> (3, 4)
+2025-06-08 17:36:34,579 - INFO - Swapping tiles: purple <-> purple
+2025-06-08 17:36:34,579 - DEBUG - Found horizontal match at (6, 7)
+2025-06-08 17:36:34,579 - DEBUG - Found horizontal match at (8, 0)
+2025-06-08 17:36:34,579 - INFO - Found 2 matches
+2025-06-08 17:36:34,946 - DEBUG - Tile at position (2, 5): blue
+2025-06-08 17:36:34,946 - INFO - Clicked tile at (2, 5): blue
+2025-06-08 17:36:34,946 - INFO - Selected tile at (2, 5)
+2025-06-08 17:37:16,510 - INFO - Initializing GamePage for level 1
+2025-06-08 17:37:16,511 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:37:16,511 - INFO - Loading tile images
+2025-06-08 17:37:16,521 - DEBUG - Loaded tile image: red
+2025-06-08 17:37:16,533 - DEBUG - Loaded tile image: blue
+2025-06-08 17:37:16,545 - DEBUG - Loaded tile image: green
+2025-06-08 17:37:16,558 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:37:16,568 - DEBUG - Loaded tile image: purple
+2025-06-08 17:37:16,579 - DEBUG - Loaded tile image: orange
+2025-06-08 17:37:16,591 - DEBUG - Loaded tile image: pink
+2025-06-08 17:37:16,601 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:37:16,618 - INFO - GamePage initialization complete
+2025-06-08 17:38:39,087 - INFO - Initializing GamePage for level 1
+2025-06-08 17:38:39,087 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:38:39,088 - INFO - Loading tile images
+2025-06-08 17:38:39,098 - DEBUG - Loaded tile image: red
+2025-06-08 17:38:39,109 - DEBUG - Loaded tile image: blue
+2025-06-08 17:38:39,120 - DEBUG - Loaded tile image: green
+2025-06-08 17:38:39,131 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:38:39,141 - DEBUG - Loaded tile image: purple
+2025-06-08 17:38:39,151 - DEBUG - Loaded tile image: orange
+2025-06-08 17:38:39,162 - DEBUG - Loaded tile image: pink
+2025-06-08 17:38:39,173 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:38:39,188 - INFO - GamePage initialization complete
+2025-06-08 17:38:40,096 - DEBUG - Tile at position (4, 4): blue
+2025-06-08 17:38:40,098 - INFO - Clicked tile at (4, 4): blue
+2025-06-08 17:38:40,098 - INFO - Selected tile at (4, 4)
+2025-06-08 17:38:40,681 - DEBUG - Tile at position (4, 7): yellow
+2025-06-08 17:38:40,681 - INFO - Clicked tile at (4, 7): yellow
+2025-06-08 17:38:40,682 - INFO - Tiles are not adjacent, selection cancelled
+2025-06-08 17:38:41,092 - DEBUG - Tile at position (4, 5): green
+2025-06-08 17:38:41,092 - INFO - Clicked tile at (4, 5): green
+2025-06-08 17:38:41,092 - INFO - Selected tile at (4, 5)
+2025-06-08 17:38:41,425 - DEBUG - Tile at position (4, 4): blue
+2025-06-08 17:38:41,425 - INFO - Clicked tile at (4, 4): blue
+2025-06-08 17:38:41,425 - INFO - Swapping tiles: (4, 5) <-> (4, 4)
+2025-06-08 17:38:41,425 - INFO - Swapping tiles: green <-> blue
+2025-06-08 17:38:41,426 - DEBUG - Found horizontal match at (3, 2)
+2025-06-08 17:38:41,426 - DEBUG - Found vertical match at (1, 8)
+2025-06-08 17:38:41,426 - DEBUG - Found vertical match at (3, 0)
+2025-06-08 17:38:41,426 - INFO - Found 3 matches
+2025-06-08 17:38:42,020 - DEBUG - Tile at position (4, 5): blue
+2025-06-08 17:38:42,020 - INFO - Clicked tile at (4, 5): blue
+2025-06-08 17:38:42,020 - INFO - Selected tile at (4, 5)
+2025-06-08 17:38:42,282 - DEBUG - Tile at position (4, 6): blue
+2025-06-08 17:38:42,283 - INFO - Clicked tile at (4, 6): blue
+2025-06-08 17:38:42,283 - INFO - Swapping tiles: (4, 5) <-> (4, 6)
+2025-06-08 17:38:42,283 - INFO - Swapping tiles: blue <-> blue
+2025-06-08 17:38:42,283 - DEBUG - Found horizontal match at (3, 0)
+2025-06-08 17:38:42,284 - INFO - Found 1 matches
+2025-06-08 17:38:42,787 - DEBUG - Tile at position (5, 6): blue
+2025-06-08 17:38:42,787 - INFO - Clicked tile at (5, 6): blue
+2025-06-08 17:38:42,787 - INFO - Selected tile at (5, 6)
+2025-06-08 17:38:43,032 - DEBUG - Tile at position (5, 5): yellow
+2025-06-08 17:38:43,032 - INFO - Clicked tile at (5, 5): yellow
+2025-06-08 17:38:43,032 - INFO - Swapping tiles: (5, 6) <-> (5, 5)
+2025-06-08 17:38:43,032 - INFO - Swapping tiles: blue <-> yellow
+2025-06-08 17:38:43,033 - INFO - No matches found, swapping back
+2025-06-08 17:38:44,246 - DEBUG - Tile at position (4, 2): purple
+2025-06-08 17:38:44,246 - INFO - Clicked tile at (4, 2): purple
+2025-06-08 17:38:44,247 - INFO - Selected tile at (4, 2)
+2025-06-08 17:38:44,461 - DEBUG - Tile at position (3, 2): red
+2025-06-08 17:38:44,461 - INFO - Clicked tile at (3, 2): red
+2025-06-08 17:38:44,461 - INFO - Swapping tiles: (4, 2) <-> (3, 2)
+2025-06-08 17:38:44,461 - INFO - Swapping tiles: purple <-> red
+2025-06-08 17:38:44,461 - DEBUG - Found horizontal match at (3, 2)
+2025-06-08 17:38:44,461 - INFO - Found 1 matches
+2025-06-08 17:38:45,468 - DEBUG - Tile at position (4, 5): blue
+2025-06-08 17:38:45,468 - INFO - Clicked tile at (4, 5): blue
+2025-06-08 17:38:45,469 - INFO - Selected tile at (4, 5)
+2025-06-08 17:38:45,668 - DEBUG - Tile at position (3, 5): red
+2025-06-08 17:38:45,668 - INFO - Clicked tile at (3, 5): red
+2025-06-08 17:38:45,668 - INFO - Swapping tiles: (4, 5) <-> (3, 5)
+2025-06-08 17:38:45,668 - INFO - Swapping tiles: blue <-> red
+2025-06-08 17:38:45,669 - INFO - No matches found, swapping back
+2025-06-08 17:38:46,259 - DEBUG - Tile at position (3, 6): yellow
+2025-06-08 17:38:46,260 - INFO - Clicked tile at (3, 6): yellow
+2025-06-08 17:38:46,260 - INFO - Selected tile at (3, 6)
+2025-06-08 17:38:46,669 - DEBUG - Tile at position (3, 7): purple
+2025-06-08 17:38:46,669 - INFO - Clicked tile at (3, 7): purple
+2025-06-08 17:38:46,670 - INFO - Swapping tiles: (3, 6) <-> (3, 7)
+2025-06-08 17:38:46,670 - INFO - Swapping tiles: yellow <-> purple
+2025-06-08 17:38:46,670 - INFO - No matches found, swapping back
+2025-06-08 17:38:47,210 - DEBUG - Tile at position (3, 7): purple
+2025-06-08 17:38:47,210 - INFO - Clicked tile at (3, 7): purple
+2025-06-08 17:38:47,211 - INFO - Selected tile at (3, 7)
+2025-06-08 17:38:47,475 - DEBUG - Tile at position (3, 8): yellow
+2025-06-08 17:38:47,475 - INFO - Clicked tile at (3, 8): yellow
+2025-06-08 17:38:47,475 - INFO - Swapping tiles: (3, 7) <-> (3, 8)
+2025-06-08 17:38:47,476 - INFO - Swapping tiles: purple <-> yellow
+2025-06-08 17:38:47,476 - INFO - No matches found, swapping back
+2025-06-08 17:38:48,497 - DEBUG - Tile at position (7, 3): red
+2025-06-08 17:38:48,497 - INFO - Clicked tile at (7, 3): red
+2025-06-08 17:38:48,497 - INFO - Selected tile at (7, 3)
+2025-06-08 17:38:49,117 - DEBUG - Tile at position (7, 4): purple
+2025-06-08 17:38:49,117 - INFO - Clicked tile at (7, 4): purple
+2025-06-08 17:38:49,118 - INFO - Swapping tiles: (7, 3) <-> (7, 4)
+2025-06-08 17:38:49,118 - INFO - Swapping tiles: red <-> purple
+2025-06-08 17:38:49,118 - DEBUG - Found horizontal match at (7, 1)
+2025-06-08 17:38:49,118 - INFO - Found 1 matches
+2025-06-08 17:38:54,240 - DEBUG - Tile at position (9, 6): blue
+2025-06-08 17:38:54,241 - INFO - Clicked tile at (9, 6): blue
+2025-06-08 17:38:54,241 - INFO - Selected tile at (9, 6)
+2025-06-08 17:38:54,485 - DEBUG - Tile at position (9, 5): green
+2025-06-08 17:38:54,485 - INFO - Clicked tile at (9, 5): green
+2025-06-08 17:38:54,485 - INFO - Swapping tiles: (9, 6) <-> (9, 5)
+2025-06-08 17:38:54,485 - INFO - Swapping tiles: blue <-> green
+2025-06-08 17:38:54,486 - DEBUG - Found horizontal match at (4, 1)
+2025-06-08 17:38:54,486 - DEBUG - Found vertical match at (7, 5)
+2025-06-08 17:38:54,486 - INFO - Found 2 matches
+2025-06-08 17:40:16,781 - INFO - Initializing GamePage for level 1
+2025-06-08 17:40:16,782 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:40:16,782 - INFO - Loading tile images
+2025-06-08 17:40:16,793 - DEBUG - Loaded tile image: red
+2025-06-08 17:40:16,803 - DEBUG - Loaded tile image: blue
+2025-06-08 17:40:16,815 - DEBUG - Loaded tile image: green
+2025-06-08 17:40:16,825 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:40:16,834 - DEBUG - Loaded tile image: purple
+2025-06-08 17:40:16,845 - DEBUG - Loaded tile image: orange
+2025-06-08 17:40:16,856 - DEBUG - Loaded tile image: pink
+2025-06-08 17:40:16,866 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:40:16,883 - INFO - GamePage initialization complete
+2025-06-08 17:40:17,320 - DEBUG - Tile at position (4, 3): blue
+2025-06-08 17:40:17,320 - INFO - Clicked tile at (4, 3): blue
+2025-06-08 17:40:17,320 - INFO - Selected tile at (4, 3)
+2025-06-08 17:40:17,633 - DEBUG - Tile at position (4, 4): yellow
+2025-06-08 17:40:17,634 - INFO - Clicked tile at (4, 4): yellow
+2025-06-08 17:40:17,634 - INFO - Swapping tiles: (4, 3) <-> (4, 4)
+2025-06-08 17:40:17,634 - INFO - Swapping tiles: blue <-> yellow
+2025-06-08 17:40:17,634 - INFO - Found 19 matches
+2025-06-08 17:40:19,128 - DEBUG - Tile at position (4, 1): green
+2025-06-08 17:40:19,128 - INFO - Clicked tile at (4, 1): green
+2025-06-08 17:40:19,128 - INFO - Selected tile at (4, 1)
+2025-06-08 17:40:19,560 - DEBUG - Tile at position (4, 0): red
+2025-06-08 17:40:19,560 - INFO - Clicked tile at (4, 0): red
+2025-06-08 17:40:19,560 - INFO - Swapping tiles: (4, 1) <-> (4, 0)
+2025-06-08 17:40:19,560 - INFO - Swapping tiles: green <-> red
+2025-06-08 17:40:19,560 - INFO - Found 12 matches
+2025-06-08 17:40:20,754 - DEBUG - Tile at position (4, 2): red
+2025-06-08 17:40:20,754 - INFO - Clicked tile at (4, 2): red
+2025-06-08 17:40:20,754 - INFO - Selected tile at (4, 2)
+2025-06-08 17:40:21,523 - DEBUG - Tile at position (3, 2): green
+2025-06-08 17:40:21,523 - INFO - Clicked tile at (3, 2): green
+2025-06-08 17:40:21,523 - INFO - Swapping tiles: (4, 2) <-> (3, 2)
+2025-06-08 17:40:21,523 - INFO - Swapping tiles: red <-> green
+2025-06-08 17:40:21,524 - INFO - Found 3 matches
+2025-06-08 17:40:23,147 - DEBUG - Tile at position (6, 3): green
+2025-06-08 17:40:23,147 - INFO - Clicked tile at (6, 3): green
+2025-06-08 17:40:23,147 - INFO - Selected tile at (6, 3)
+2025-06-08 17:40:23,459 - DEBUG - Tile at position (7, 3): purple
+2025-06-08 17:40:23,459 - INFO - Clicked tile at (7, 3): purple
+2025-06-08 17:40:23,460 - INFO - Swapping tiles: (6, 3) <-> (7, 3)
+2025-06-08 17:40:23,460 - INFO - Swapping tiles: green <-> purple
+2025-06-08 17:40:23,460 - INFO - Found 3 matches
+2025-06-08 17:40:25,474 - DEBUG - Tile at position (9, 5): red
+2025-06-08 17:40:25,474 - INFO - Clicked tile at (9, 5): red
+2025-06-08 17:40:25,475 - INFO - Selected tile at (9, 5)
+2025-06-08 17:40:25,856 - DEBUG - Tile at position (9, 6): green
+2025-06-08 17:40:25,856 - INFO - Clicked tile at (9, 6): green
+2025-06-08 17:40:25,856 - INFO - Swapping tiles: (9, 5) <-> (9, 6)
+2025-06-08 17:40:25,857 - INFO - Swapping tiles: red <-> green
+2025-06-08 17:40:25,858 - INFO - Found 3 matches
+2025-06-08 17:40:27,160 - DEBUG - Tile at position (5, 4): blue
+2025-06-08 17:40:27,160 - INFO - Clicked tile at (5, 4): blue
+2025-06-08 17:40:27,160 - INFO - Selected tile at (5, 4)
+2025-06-08 17:40:27,343 - DEBUG - Tile at position (4, 4): purple
+2025-06-08 17:40:27,343 - INFO - Clicked tile at (4, 4): purple
+2025-06-08 17:40:27,343 - INFO - Swapping tiles: (5, 4) <-> (4, 4)
+2025-06-08 17:40:27,343 - INFO - Swapping tiles: blue <-> purple
+2025-06-08 17:40:27,344 - INFO - Found 3 matches
+2025-06-08 17:40:29,309 - DEBUG - Tile at position (2, 4): purple
+2025-06-08 17:40:29,310 - INFO - Clicked tile at (2, 4): purple
+2025-06-08 17:40:29,310 - INFO - Selected tile at (2, 4)
+2025-06-08 17:40:29,719 - DEBUG - Tile at position (2, 5): yellow
+2025-06-08 17:40:29,719 - INFO - Clicked tile at (2, 5): yellow
+2025-06-08 17:40:29,719 - INFO - Swapping tiles: (2, 4) <-> (2, 5)
+2025-06-08 17:40:29,720 - INFO - Swapping tiles: purple <-> yellow
+2025-06-08 17:40:29,720 - INFO - Found 3 matches
+2025-06-08 17:40:31,422 - DEBUG - Tile at position (4, 6): yellow
+2025-06-08 17:40:31,423 - INFO - Clicked tile at (4, 6): yellow
+2025-06-08 17:40:31,423 - INFO - Selected tile at (4, 6)
+2025-06-08 17:40:31,636 - DEBUG - Tile at position (4, 5): purple
+2025-06-08 17:40:31,636 - INFO - Clicked tile at (4, 5): purple
+2025-06-08 17:40:31,636 - INFO - Swapping tiles: (4, 6) <-> (4, 5)
+2025-06-08 17:40:31,636 - INFO - Swapping tiles: yellow <-> purple
+2025-06-08 17:40:31,638 - INFO - Found 8 matches
+2025-06-08 17:40:33,162 - DEBUG - Tile at position (3, 8): turquoise
+2025-06-08 17:40:33,162 - INFO - Clicked tile at (3, 8): turquoise
+2025-06-08 17:40:33,162 - INFO - Selected tile at (3, 8)
+2025-06-08 17:40:33,393 - DEBUG - Tile at position (2, 8): orange
+2025-06-08 17:40:33,393 - INFO - Clicked tile at (2, 8): orange
+2025-06-08 17:40:33,393 - INFO - Swapping tiles: (3, 8) <-> (2, 8)
+2025-06-08 17:40:33,393 - INFO - Swapping tiles: turquoise <-> orange
+2025-06-08 17:40:33,393 - INFO - Found 3 matches
+2025-06-08 17:40:35,805 - DEBUG - Tile at position (8, 5): purple
+2025-06-08 17:40:35,805 - INFO - Clicked tile at (8, 5): purple
+2025-06-08 17:40:35,805 - INFO - Selected tile at (8, 5)
+2025-06-08 17:40:36,070 - DEBUG - Tile at position (7, 5): red
+2025-06-08 17:40:36,070 - INFO - Clicked tile at (7, 5): red
+2025-06-08 17:40:36,070 - INFO - Swapping tiles: (8, 5) <-> (7, 5)
+2025-06-08 17:40:36,070 - INFO - Swapping tiles: purple <-> red
+2025-06-08 17:40:36,071 - INFO - Found 6 matches
+2025-06-08 17:40:38,534 - DEBUG - Tile at position (3, 4): yellow
+2025-06-08 17:40:38,535 - INFO - Clicked tile at (3, 4): yellow
+2025-06-08 17:40:38,535 - INFO - Selected tile at (3, 4)
+2025-06-08 17:40:38,751 - DEBUG - Tile at position (4, 4): green
+2025-06-08 17:40:38,751 - INFO - Clicked tile at (4, 4): green
+2025-06-08 17:40:38,751 - INFO - Swapping tiles: (3, 4) <-> (4, 4)
+2025-06-08 17:40:38,752 - INFO - Swapping tiles: yellow <-> green
+2025-06-08 17:40:38,752 - INFO - Found 7 matches
+2025-06-08 17:40:42,716 - DEBUG - Tile at position (9, 7): red
+2025-06-08 17:40:42,716 - INFO - Clicked tile at (9, 7): red
+2025-06-08 17:40:42,716 - INFO - Selected tile at (9, 7)
+2025-06-08 17:40:43,275 - DEBUG - Tile at position (8, 7): blue
+2025-06-08 17:40:43,275 - INFO - Clicked tile at (8, 7): blue
+2025-06-08 17:40:43,275 - INFO - Swapping tiles: (9, 7) <-> (8, 7)
+2025-06-08 17:40:43,277 - INFO - Swapping tiles: red <-> blue
+2025-06-08 17:40:43,277 - INFO - Found 3 matches
+2025-06-08 17:40:45,073 - DEBUG - Tile at position (7, 6): green
+2025-06-08 17:40:45,073 - INFO - Clicked tile at (7, 6): green
+2025-06-08 17:40:45,073 - INFO - Selected tile at (7, 6)
+2025-06-08 17:40:45,291 - DEBUG - Tile at position (8, 6): green
+2025-06-08 17:40:45,291 - INFO - Clicked tile at (8, 6): green
+2025-06-08 17:40:45,291 - INFO - Swapping tiles: (7, 6) <-> (8, 6)
+2025-06-08 17:40:45,292 - INFO - Swapping tiles: green <-> green
+2025-06-08 17:40:45,292 - INFO - Found 6 matches
+2025-06-08 17:40:52,377 - DEBUG - Tile at position (4, 9): red
+2025-06-08 17:40:52,377 - INFO - Clicked tile at (4, 9): red
+2025-06-08 17:40:52,378 - INFO - Selected tile at (4, 9)
+2025-06-08 17:40:52,629 - DEBUG - Tile at position (5, 9): yellow
+2025-06-08 17:40:52,630 - INFO - Clicked tile at (5, 9): yellow
+2025-06-08 17:40:52,630 - INFO - Swapping tiles: (4, 9) <-> (5, 9)
+2025-06-08 17:40:52,630 - INFO - Swapping tiles: red <-> yellow
+2025-06-08 17:40:52,630 - INFO - Found 3 matches
+2025-06-08 17:40:54,005 - DEBUG - Tile at position (4, 9): red
+2025-06-08 17:40:54,005 - INFO - Clicked tile at (4, 9): red
+2025-06-08 17:40:54,005 - INFO - Selected tile at (4, 9)
+2025-06-08 17:40:54,252 - DEBUG - Tile at position (5, 9): yellow
+2025-06-08 17:40:54,252 - INFO - Clicked tile at (5, 9): yellow
+2025-06-08 17:40:54,252 - INFO - Swapping tiles: (4, 9) <-> (5, 9)
+2025-06-08 17:40:54,252 - INFO - Swapping tiles: red <-> yellow
+2025-06-08 17:40:54,253 - INFO - No matches found, swapping back
+2025-06-08 17:40:55,224 - DEBUG - Tile at position (4, 9): red
+2025-06-08 17:40:55,225 - INFO - Clicked tile at (4, 9): red
+2025-06-08 17:40:55,225 - INFO - Selected tile at (4, 9)
+2025-06-08 17:40:55,440 - DEBUG - Tile at position (5, 9): yellow
+2025-06-08 17:40:55,440 - INFO - Clicked tile at (5, 9): yellow
+2025-06-08 17:40:55,440 - INFO - Swapping tiles: (4, 9) <-> (5, 9)
+2025-06-08 17:40:55,440 - INFO - Swapping tiles: red <-> yellow
+2025-06-08 17:40:55,441 - INFO - No matches found, swapping back
+2025-06-08 17:40:56,167 - DEBUG - Tile at position (4, 9): red
+2025-06-08 17:40:56,167 - INFO - Clicked tile at (4, 9): red
+2025-06-08 17:40:56,167 - INFO - Selected tile at (4, 9)
+2025-06-08 17:40:56,365 - DEBUG - Tile at position (5, 9): yellow
+2025-06-08 17:40:56,365 - INFO - Clicked tile at (5, 9): yellow
+2025-06-08 17:40:56,366 - INFO - Swapping tiles: (4, 9) <-> (5, 9)
+2025-06-08 17:40:56,366 - INFO - Swapping tiles: red <-> yellow
+2025-06-08 17:40:56,366 - INFO - No matches found, swapping back
+2025-06-08 17:42:19,766 - INFO - Initializing GamePage for level 1
+2025-06-08 17:42:19,767 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:42:19,767 - INFO - Loading tile images
+2025-06-08 17:42:19,779 - DEBUG - Loaded tile image: red
+2025-06-08 17:42:19,789 - DEBUG - Loaded tile image: blue
+2025-06-08 17:42:19,801 - DEBUG - Loaded tile image: green
+2025-06-08 17:42:19,813 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:42:19,823 - DEBUG - Loaded tile image: purple
+2025-06-08 17:42:19,834 - DEBUG - Loaded tile image: orange
+2025-06-08 17:42:19,844 - DEBUG - Loaded tile image: pink
+2025-06-08 17:42:19,855 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:42:19,870 - INFO - GamePage initialization complete
+2025-06-08 17:42:52,495 - INFO - Initializing GamePage for level 1
+2025-06-08 17:42:52,495 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:42:52,495 - INFO - Loading tile images
+2025-06-08 17:42:52,506 - DEBUG - Loaded tile image: red
+2025-06-08 17:42:52,517 - DEBUG - Loaded tile image: blue
+2025-06-08 17:42:52,529 - DEBUG - Loaded tile image: green
+2025-06-08 17:42:52,539 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:42:52,549 - DEBUG - Loaded tile image: purple
+2025-06-08 17:42:52,560 - DEBUG - Loaded tile image: orange
+2025-06-08 17:42:52,570 - DEBUG - Loaded tile image: pink
+2025-06-08 17:42:52,582 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:42:52,598 - INFO - GamePage initialization complete
+2025-06-08 17:43:45,326 - INFO - Initializing GamePage for level 1
+2025-06-08 17:43:45,326 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:43:45,327 - INFO - Loading tile images
+2025-06-08 17:43:45,337 - DEBUG - Loaded tile image: red
+2025-06-08 17:43:45,348 - DEBUG - Loaded tile image: blue
+2025-06-08 17:43:45,360 - DEBUG - Loaded tile image: green
+2025-06-08 17:43:45,370 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:43:45,380 - DEBUG - Loaded tile image: purple
+2025-06-08 17:43:45,389 - DEBUG - Loaded tile image: orange
+2025-06-08 17:43:45,402 - DEBUG - Loaded tile image: pink
+2025-06-08 17:43:45,413 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:43:45,429 - INFO - GamePage initialization complete
+2025-06-08 17:44:49,285 - INFO - Initializing GamePage for level 1
+2025-06-08 17:44:49,286 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:44:49,286 - INFO - Loading tile images
+2025-06-08 17:44:49,296 - DEBUG - Loaded tile image: red
+2025-06-08 17:44:49,308 - DEBUG - Loaded tile image: blue
+2025-06-08 17:44:49,320 - DEBUG - Loaded tile image: green
+2025-06-08 17:44:49,332 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:44:49,341 - DEBUG - Loaded tile image: purple
+2025-06-08 17:44:49,351 - DEBUG - Loaded tile image: orange
+2025-06-08 17:44:49,363 - DEBUG - Loaded tile image: pink
+2025-06-08 17:44:49,374 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:44:49,392 - INFO - GamePage initialization complete
+2025-06-08 17:45:34,106 - INFO - Initializing GamePage for level 1
+2025-06-08 17:45:34,107 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:45:34,107 - INFO - Loading tile images
+2025-06-08 17:45:34,117 - DEBUG - Loaded tile image: red
+2025-06-08 17:45:34,128 - DEBUG - Loaded tile image: blue
+2025-06-08 17:45:34,139 - DEBUG - Loaded tile image: green
+2025-06-08 17:45:34,150 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:45:34,161 - DEBUG - Loaded tile image: purple
+2025-06-08 17:45:34,171 - DEBUG - Loaded tile image: orange
+2025-06-08 17:45:34,182 - DEBUG - Loaded tile image: pink
+2025-06-08 17:45:34,193 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:45:34,209 - INFO - GamePage initialization complete
+2025-06-08 17:45:35,092 - INFO - Selected tile at (2, 2)
+2025-06-08 17:45:35,457 - INFO - Swapping tiles: (2, 2) <-> (2, 3)
+2025-06-08 17:45:35,457 - INFO - Swapping tiles: blue <-> blue
+2025-06-08 17:46:28,702 - INFO - Initializing GamePage for level 1
+2025-06-08 17:46:28,702 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:46:28,704 - INFO - Loading tile images
+2025-06-08 17:46:28,714 - DEBUG - Loaded tile image: red
+2025-06-08 17:46:28,725 - DEBUG - Loaded tile image: blue
+2025-06-08 17:46:28,736 - DEBUG - Loaded tile image: green
+2025-06-08 17:46:28,747 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:46:28,757 - DEBUG - Loaded tile image: purple
+2025-06-08 17:46:28,767 - DEBUG - Loaded tile image: orange
+2025-06-08 17:46:28,778 - DEBUG - Loaded tile image: pink
+2025-06-08 17:46:28,790 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:46:28,805 - INFO - GamePage initialization complete
+2025-06-08 17:46:29,273 - INFO - Selected tile at (4, 3)
+2025-06-08 17:46:29,605 - INFO - Swapping tiles: (4, 3) <-> (4, 4)
+2025-06-08 17:46:29,605 - INFO - Swapping tiles: green <-> red
+2025-06-08 17:47:19,917 - INFO - Initializing GamePage for level 1
+2025-06-08 17:47:19,918 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:47:19,918 - INFO - Loading tile images
+2025-06-08 17:47:19,929 - DEBUG - Loaded tile image: red
+2025-06-08 17:47:19,940 - DEBUG - Loaded tile image: blue
+2025-06-08 17:47:19,951 - DEBUG - Loaded tile image: green
+2025-06-08 17:47:19,963 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:47:19,973 - DEBUG - Loaded tile image: purple
+2025-06-08 17:47:19,984 - DEBUG - Loaded tile image: orange
+2025-06-08 17:47:19,996 - DEBUG - Loaded tile image: pink
+2025-06-08 17:47:20,007 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:47:20,023 - INFO - GamePage initialization complete
+2025-06-08 17:47:20,491 - INFO - Selected tile at (4, 3)
+2025-06-08 17:47:20,852 - INFO - Swapping tiles: (4, 3) <-> (4, 4)
+2025-06-08 17:47:20,853 - INFO - Swapping tiles: red <-> red
+2025-06-08 17:47:59,172 - INFO - Initializing GamePage for level 1
+2025-06-08 17:47:59,173 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:47:59,173 - INFO - Loading tile images
+2025-06-08 17:47:59,183 - DEBUG - Loaded tile image: red
+2025-06-08 17:47:59,194 - DEBUG - Loaded tile image: blue
+2025-06-08 17:47:59,206 - DEBUG - Loaded tile image: green
+2025-06-08 17:47:59,216 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:47:59,226 - DEBUG - Loaded tile image: purple
+2025-06-08 17:47:59,236 - DEBUG - Loaded tile image: orange
+2025-06-08 17:47:59,247 - DEBUG - Loaded tile image: pink
+2025-06-08 17:47:59,258 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:47:59,273 - INFO - GamePage initialization complete
+2025-06-08 17:47:59,779 - INFO - Selected tile at (5, 4)
+2025-06-08 17:48:00,105 - INFO - Swapping tiles: (5, 4) <-> (4, 4)
+2025-06-08 17:48:00,105 - INFO - Swapping tiles: purple <-> green
+2025-06-08 17:48:34,724 - INFO - Initializing GamePage for level 1
+2025-06-08 17:48:34,725 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:48:34,725 - INFO - Loading tile images
+2025-06-08 17:48:34,735 - DEBUG - Loaded tile image: red
+2025-06-08 17:48:34,747 - DEBUG - Loaded tile image: blue
+2025-06-08 17:48:34,759 - DEBUG - Loaded tile image: green
+2025-06-08 17:48:34,771 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:48:34,781 - DEBUG - Loaded tile image: purple
+2025-06-08 17:48:34,790 - DEBUG - Loaded tile image: orange
+2025-06-08 17:48:34,801 - DEBUG - Loaded tile image: pink
+2025-06-08 17:48:34,811 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:48:34,827 - INFO - GamePage initialization complete
+2025-06-08 17:48:35,377 - INFO - Selected tile at (4, 4)
+2025-06-08 17:48:35,626 - INFO - Tiles are the same color, selection cancelled
+2025-06-08 17:48:36,156 - INFO - Selected tile at (4, 4)
+2025-06-08 17:48:36,391 - INFO - Swapping tiles: (4, 4) <-> (4, 5)
+2025-06-08 17:48:36,391 - INFO - Swapping tiles: purple <-> red
+2025-06-08 17:49:25,871 - INFO - Initializing GamePage for level 1
+2025-06-08 17:49:25,872 - INFO - Level loaded: grid_size=(10, 10), moves=24, objectives=['4;blue', '20;red', '2;bomb']
+2025-06-08 17:49:25,872 - INFO - Loading tile images
+2025-06-08 17:49:25,884 - DEBUG - Loaded tile image: red
+2025-06-08 17:49:25,896 - DEBUG - Loaded tile image: blue
+2025-06-08 17:49:25,909 - DEBUG - Loaded tile image: green
+2025-06-08 17:49:25,921 - DEBUG - Loaded tile image: yellow
+2025-06-08 17:49:25,930 - DEBUG - Loaded tile image: purple
+2025-06-08 17:49:25,941 - DEBUG - Loaded tile image: orange
+2025-06-08 17:49:25,951 - DEBUG - Loaded tile image: pink
+2025-06-08 17:49:25,962 - DEBUG - Loaded tile image: turquoise
+2025-06-08 17:49:25,977 - INFO - GamePage initialization complete
+2025-06-08 17:49:26,662 - INFO - Selected tile at (3, 3)
+2025-06-08 17:49:27,040 - INFO - Tiles are the same color, selection cancelled
+2025-06-08 17:49:27,771 - INFO - Selected tile at (2, 4)
+2025-06-08 17:49:28,049 - INFO - Tiles are the same color, selection cancelled
+2025-06-08 17:49:28,796 - INFO - Selected tile at (5, 4)
+2025-06-08 17:49:29,077 - INFO - Swapping tiles: (5, 4) <-> (5, 5)
+2025-06-08 17:49:29,077 - INFO - Swapping tiles: green <-> purple
